@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /course-in-a-box
+baseurl: /spoled #/course-in-a-box
 markdown: kramdown
 permalink: /:categories/:title/
 
