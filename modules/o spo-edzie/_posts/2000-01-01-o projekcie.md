@@ -1,4 +1,4 @@
-rzez całe nasze życie – obecnie bardziej niż kiedykolwiek wcześniej – uczestniczymy w mniej lub bardziej formalnych procesach edukacyjnych. Wciąż się uczymy, a dostęp do wiedzy stał się podstawową potrzebą współczesnego człowieka.
+Przez całe nasze życie – obecnie bardziej niż kiedykolwiek wcześniej – uczestniczymy w mniej lub bardziej formalnych procesach edukacyjnych. Wciąż się uczymy, a dostęp do wiedzy stał się podstawową potrzebą współczesnego człowieka.
 
 Mamy to szczęście, że żyjemy w czasach, w których technologia pozwala na swobodny przepływ informacji, ułatwia komunikację, likwidując bariery (np. językowe). Wiedza nigdy jeszcze nie była tak dostępna. W każdym razie w teorii.
 W praktyce na drodze do wolności i otwartości uczenia się stoją m. in. niedostosowany systemy edukacji i archaiczna filozofia uczenia, trudne do zrozumienia prawo autorskie, bariery technologiczne wynikające z niedofinansowania sektora, a wreszcie niska świadomość nauczycieli, uczniów i użytkowników internetu dotycząca możliwości nowych technologii, wolnych licencji i wyjątku edukacyjnego.
