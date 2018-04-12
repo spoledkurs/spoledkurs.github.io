@@ -65,7 +65,8 @@
 // Success appears as green
 .btn-success {
   @include button-variant($btn-success-color, $btn-success-bg, $btn-success-border);
-   color: #178c34;
+  background-color: #178c34;
+  border-color: #178c34;  
 }
 // Info appears as blue-green
 .btn-info {
@@ -128,7 +129,7 @@
   // line-height: ensure even-numbered height of button next to large input
   @include button-size($padding-large-vertical, $padding-large-horizontal, $font-size-large, $line-height-large, $border-radius-large);
  
-  border-radius: 7px;
+  border-radius: 6px;
 }
 .btn-sm {
   // line-height: ensure proper height of button next to small input
