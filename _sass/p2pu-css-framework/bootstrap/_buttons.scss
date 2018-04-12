@@ -67,9 +67,6 @@
   @include button-variant($btn-success-color, $btn-success-bg, $btn-success-border);
   background-color: #178c34;
   border-color: #178c34;  
-  &:hover,
-  &:focus {
-    color: #69d836;
   }
 }
 // Info appears as blue-green
