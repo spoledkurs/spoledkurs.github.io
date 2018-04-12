@@ -127,7 +127,8 @@
   // line-height: ensure even-numbered height of button next to large input
   @include button-size($padding-large-vertical, $padding-large-horizontal, $font-size-large, $line-height-large, $border-radius-large);
  
-  border-radius: 15px;
+  border-radius: 10px;
+  color: #178c34;
 }
 .btn-sm {
   // line-height: ensure proper height of button next to small input
