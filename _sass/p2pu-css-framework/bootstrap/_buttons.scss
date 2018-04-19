@@ -68,7 +68,6 @@
   background-color: #178c34;
   border-color: #178c34;  
   }
-}
 // Info appears as blue-green
 .btn-info {
   @include button-variant($btn-info-color, $btn-info-bg, $btn-info-border);
