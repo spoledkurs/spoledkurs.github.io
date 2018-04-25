@@ -1,11 +1,16 @@
 .p2pu-footer {
 
-	background-color: $gray-dark;
+	background-color: #e8e8e8;
 	color: $gray-snow;
 	padding: 0.5em 0 0.5em 0;
 	margin-top: 20px;
 	line-height: 1.5;
 	margin-bottom: 0;
+	position: relative;
+  	width: 100%;
+  	height: 60px;
+  	border-top: 1px solid lightgray;
+
 
 	a {
 		color: #4a1096;
