@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /spoled
+baseurl: /spoled_test
 markdown: kramdown
 permalink: /:categories/:title/
 
