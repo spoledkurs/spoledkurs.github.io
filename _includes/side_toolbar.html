@@ -1,6 +1,6 @@
 
 <div class="sidebar col-md-3">
-	 {% include next_module.html %}
+	<!-- {% include next_module.html %}
 
 	{% if prev %}
 		<div class="pagination-section">
@@ -10,7 +10,7 @@
 			<a rel="prev" class="prev" href="{{ site.baseurl }}{{ prev_post.url }}">
 				{{ prev }} </a>
 		</div>
-		<hr />
+		<hr /> -->
 	{% endif %} 
 	<ul>
 		{% for post in site.categories[module] reversed %}
@@ -22,7 +22,7 @@
 			</li>
 		{% endfor %}
 	</ul>
-{% if next %}
+<!-- {% if next %}
 		<hr />
 		<div class="pagination-section">
 			<div class="title">
@@ -31,5 +31,5 @@
 			<a rel="next" class="next" href="{{ site.baseurl }}{{ next_post.url }}"> {{ next }}
 			</a>
 		</div>
-	{% endif %} 
+	{% endif %} -->
 
