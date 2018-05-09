@@ -20,21 +20,19 @@
 						   class="dropdown-item">
 							{{ module }}
 						</a>
+						
+						<ul>
+							{% for post in site.categories[module] reversed %}
+							<li class="{% if post.url == page.url %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
+							<a href="{{ site.baseurl }}{{ post.url }}">
+							{{ post.title }}
+							</a>
+							</li>
+								{% endfor %}
+						</ul>
 					</li>
-
 	
-	
-	<ul>
-		{% for post in site.categories[module] reversed %}
-			<li class="{% if post.url == page.url %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
-				<a
-						href="{{ site.baseurl }}{{ post.url }}">
-					{{ post.title }}
-				</a>
-			</li>
-		{% endfor %}
-	</ul>
-{% endfor %}	
+			{% endfor %}	
 	
 	{% if next %}
 		<hr />
