@@ -1,16 +1,5 @@
 
 <div class="sidebar col-md-3">
-	
-	{% for module in site.data.course.modules %}
-					{% assign first_post = site.categories[module]|reverse|first %}
-					<li class="dropdown {% if page.categories[1] == module %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
-						<a href="{{ site.baseurl }}{{ first_post.url }}"
-						   class="dropdown-item">
-							{{ module }}
-						</a>
-					</li>
-{% endfor %}
-	
 	{% include next_module.html %}
 
 	{% if prev %}
@@ -23,6 +12,18 @@
 		</div>
 		<hr />
 	{% endif %}
+	
+	{% for module in site.data.course.modules %}
+					{% assign first_post = site.categories[module]|reverse|first %}
+					<li class="dropdown {% if page.categories[1] == module %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
+						<a href="{{ site.baseurl }}{{ first_post.url }}"
+						   class="dropdown-item">
+							{{ module }}
+						</a>
+					</li>
+{% endfor %}
+	
+	
 	<ul>
 		{% for post in site.categories[module] reversed %}
 			<li class="{% if post.url == page.url %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
