@@ -15,15 +15,20 @@
 				<li>
 					<a href="{{ site.baseurl }}/"><i class="fa fa-home"></i></a>
 				</li>
-				{% for navbar in site.data.course.navbar %}
-					{% assign first_post = site.categories[navbar]|reverse|first %}
-					<li class="dropdown {% if page.categories[1] == navbar %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
-						<a href="{{ site.baseurl }}{{ first_post.url }}"
-						   class="dropdown-item">
-							{{ navbar }}
-						</a>
-					</li>
-				{% endfor %}
+				
+				<li>	
+					<a href="{{site.baseurl }}/modules/wprowadzenie/_posts/2000-01-01-witamy.md">Kurs</a>
+				</li>	
+				
+				<li>
+					<a href="{{site.baseurl }}/_site/zasoby.html">Zasoby</a>
+				</li>
+
+				<li>
+					<a href="{{site.baseurl }}/_site/o projekcie.html">O projekcie</a>
+				</li>	
+
+				
 				<li>
 					<a href="http://community.p2pu.org/c/course-in-a-box" target="_blank">Discussion</a>
 				</li>
