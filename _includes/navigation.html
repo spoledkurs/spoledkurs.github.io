@@ -15,12 +15,12 @@
 				<li>
 					<a href="{{ site.baseurl }}/"><i class="fa fa-home"></i></a>
 				</li>
-				{% for module in site.data.course.modules %}
+				{% for navbar in site.data.course.navbar %}
 					{% assign first_post = site.categories[navbar]|reverse|first %}
 					<li class="dropdown {% if page.categories[1] == navbar %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
 						<a href="{{ site.baseurl }}{{ first_post.url }}"
 						   class="dropdown-item">
-							{{ module }}
+							{{ navbar }}
 						</a>
 					</li>
 				{% endfor %}
