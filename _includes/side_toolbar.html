@@ -21,6 +21,7 @@
 							{{ module }}
 						</a>
 						
+					<div class="sidebar1">	
 						<ul>
 							{% for post in site.categories[module] reversed %}
 							<li class="dropdown {% if post.url == page.url %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
@@ -34,6 +35,7 @@
 					</li>
 	
 			{% endfor %}	
+					</div>	
 	<!--
 	{% if next %}
 		<hr />
