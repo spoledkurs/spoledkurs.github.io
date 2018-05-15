@@ -1,5 +1,5 @@
 ---
-layout: "base"
+layout: "course_page"
 ---
 
 Learning circles are different than what you might remember from school. Instead of sitting back and listening to a teacher talk, learners are responsible for running and directing the learning circle, discussing issues as a team, and offering peer support.
