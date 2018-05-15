@@ -53,14 +53,7 @@ body {
 	color: cadetblue;
 }
 
-.sidebar li:before {
-	content: "";
-	border-left: 3px solid #aab0bf;
-	position: absolute;
-	left: 40px;
-	height: 100%;
-	top: 0;
-}
+/*stąd wycięty li::before */
 
 .sidebar li.first:before {
 	height: 50%;
@@ -106,6 +99,97 @@ body {
 }
 
 .sidebar li a:after {
+	content: "";
+
+}
+
+
+.sidebar1 {
+	padding: 60px 0;
+}
+
+.sidebar1 ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.sidebar1 li {
+	line-height: 4;
+	padding-left: 60px;
+	position: relative;
+	@include transition(color, 0.3s, linear);
+}
+
+.sidebar1 li:hover {
+	background-color: cadetblue;
+
+	a:hover, a:focus {
+		text-decoration: none;
+		color: $white;
+	}
+}
+
+.sidebar1 li.active {
+	background-color: $white;
+}
+
+.sidebar1 li.active a:hover {
+	color: cadetblue;
+}
+
+.sidebar1 li:before {
+	content: "";
+	border-left: 3px solid #aab0bf;
+	position: absolute;
+	left: 40px;
+	height: 100%;
+	top: 0;
+}
+
+.sidebar1 li.first:before {
+	height: 50%;
+	top: 50%;
+}
+
+.sidebar1 li.last:before {
+	height: 50%;
+	top: 0;
+}
+
+.sidebar1 li.first.last:before {
+	height: 0;
+	top: 0;
+}
+
+.sidebar1 li a {
+	display: block;
+	line-height: 4;
+	text-transform: uppercase;
+	@include transition(color, 0.3s, linear);
+}
+
+.sidebar1 li a:before {
+	content: "\f005";
+	font-family: FontAwesome;
+	color: cadetblue;
+	position: absolute;
+	left: 29px;
+	line-height: 1.7;
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	border: 3px solid $gray;
+	top: 18px;
+	background-color: white;
+	text-align: center;
+	font-size: 0.8em;
+}
+
+.sidebar1 li.active a:before {
+	content: "\f04b";
+}
+
+.sidebar1 li a:after {
 	content: "";
 
 }
