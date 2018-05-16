@@ -29,6 +29,10 @@ body {
 	padding: 0;
 }
 
+li {
+	list-style-type: none !important;
+}
+
 .sidebar li {
 	line-height: 4;
 	padding-left: 60px;
@@ -41,12 +45,12 @@ body {
 
 	a:hover, a:focus {
 		text-decoration: none;
-		color: $white;
+		/* color: $white; */
 	}
 }
 
 .sidebar li.active {
-	background-color: $white;
+	/* background-color: $white; */
 }
 
 .sidebar li.active a:hover {
@@ -269,16 +273,14 @@ blockquote {
 	background-color: #F3F4F8;
    	border: none;
     	color: #5F9EA0;
-    	padding: 15px 32px;
+    	/* padding: 15px 32px; */
    	text-align: left;
    	text-decoration: none;
    	display: inline-block;
    	font-size: 16px;
-    	margin: 4px 2px;
+    	/* margin: 4px 2px; */
    	cursor: pointer;
 	
 }
 
-li {
-	list-style-type: none !important;
-}
+
