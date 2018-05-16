@@ -15,13 +15,15 @@
 	
 	{% for module in site.data.course.modules %}
 					{% assign first_post = site.categories[module]|reverse|first %}
-					<li class="dropdown {% if page.categories[1] == module %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
+					<button onclick="myFunction()"> 
+						<li class="dropdown {% if page.categories[1] == module %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
 						<a href="{{ site.baseurl }}{{ first_post.url }}"
 						   class="dropdown-item">
 							{{ module }}
 						</a>
+						</button>
 						
-					
+						<div id="sidebar_list">
 						<ul class="sidebar1">
 							{% for post in site.categories[module] reversed %}
 							<li class="dropdown {% if post.url == page.url %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
@@ -32,6 +34,7 @@
 							</li>
 								{% endfor %}
 						</ul>
+						</div>
 					</li>
 	
 			{% endfor %}	
