@@ -1,5 +1,5 @@
 $('.sidebar1 li').attr('id', function(i) {
-   return 'page'+(i+1);
+   return 'child'+(i+1);
 });
 
 $(document).ready(function(){
