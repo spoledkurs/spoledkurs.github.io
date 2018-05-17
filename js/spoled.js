@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $("button").click(function(){
+    $(".button-sidebar").click(function(){
         $(".sidebar1").toggle();
     });
 });
