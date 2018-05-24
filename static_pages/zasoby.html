@@ -2,6 +2,41 @@
 layout: "base"
 ---
 
-{% include side_toolbar_2.html %}
+{% assign module=page.categories[1] %}
+<div class="clearfix">
+	{% include side_toolbar_2.html %}
+	<div class="col-md-9 background-white">
+		<div class="col-md-8 col-md-offset-1">
+			<div class="row">
+				<div class="content col-lg-12">
+					{{ content }}
+					{% include next_in_module.html %}
+					{% if prev or next %}
+						<hr />
+					{% endif %}
+					{% if prev %}
+						<div class="pagination-section pull-left">
+							<div class="title">
+								Poprzednia sekcja:
+							</div>
+							<a rel="prev" class="prev" href="{{ site.baseurl }}{{ prev.url }}">
+								{{ prev.title }} </a>
+						</div>
+					{% endif %}
+					{% if next %}
+						<div class="pagination-section pull-right">
+							<div class="title">
+								Następna sekcja:
+							</div>
+							<a rel="next" class="next" href="{{ site.baseurl }}{{ next.url }}"> {{ next.title }}
+							</a>
+						</div>
+					{% endif %}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
 
 The simplest way of adding a page is just to add an HTML file in the root directory with a suitable name for the page you want to create. For a site with a homepage, an about page, and a contact page, here’s what the root directory and associated URLs might look like:
