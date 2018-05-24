@@ -11,20 +11,20 @@
 		<hr />
 	{% endif %} -->
 	
-	{% for module in site.data.course.modules %}
-					{% assign first_post = site.categories[module]|reverse|first %}
+	{% for resource in site.data.course.resources %}
+					{% assign first_post = site.categories[resource]|reverse|first %}
 						<button class="button-sidebar"> 
 							
 					<a href="{{ site.baseurl }}{{ first_post.url }}"
 						   class="dropdown-item">
-						<li class="dropdown {% if page.categories[1] == module %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
+						<li class="dropdown {% if page.categories[1] == resource %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
 						
-							{{ module }}
+							{{ resource }}
 						</a>
 						</button>     
 						
 						<ul class="sidebar1">
-							{% for post in site.categories[module] reversed %}
+							{% for post in site.categories[resource] reversed %}
 							<li class="dropdown {% if post.url == page.url %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
 							<a href="{{ site.baseurl }}{{ post.url }}" 
 							   class="dropdown-item">
