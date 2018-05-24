@@ -1,0 +1,51 @@
+<div class="sidebar col-md-3">
+	<!-- {% include next_module.html %}
+	{% if prev %}
+		<div class="pagination-section">
+			<div class="title">
+				Previous module:
+			</div>
+			<a rel="prev" class="prev" href="{{ site.baseurl }}{{ prev_post.url }}">
+				{{ prev }} </a>
+		</div>
+		<hr />
+	{% endif %} -->
+	
+	{% for module in site.data.course.modules %}
+					{% assign first_post = site.categories[module]|reverse|first %}
+						<button class="button-sidebar"> 
+							
+					<a href="{{ site.baseurl }}{{ first_post.url }}"
+						   class="dropdown-item">
+						<li class="dropdown {% if page.categories[1] == module %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
+						
+							{{ module }}
+						</a>
+						</button>     
+						
+						<ul class="sidebar1">
+							{% for post in site.categories[module] reversed %}
+							<li class="dropdown {% if post.url == page.url %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
+							<a href="{{ site.baseurl }}{{ post.url }}" 
+							   class="dropdown-item">
+							{{ post.title }}
+							</a>
+							</li>
+								{% endfor %}
+						</ul>
+					</li>
+	
+			{% endfor %}	
+						
+	<!--
+	{% if next %}
+		<hr />
+		<div class="pagination-section">
+			<div class="title">
+				Next module:
+			</div>
+			<a rel="next" class="next" href="{{ site.baseurl }}{{ next_post.url }}"> {{ next }}
+			</a>
+		</div>
+	{% endif %} -->
+</div>
