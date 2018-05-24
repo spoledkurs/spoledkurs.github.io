@@ -13,7 +13,7 @@
 	
 	{% for resource in site.data.course.resources %}
 					{% assign first_post = site.categories[resource]|reverse|first %}
-						<button class="button-sidebar"> 
+						
 							
 					<a href="{{ site.baseurl }}{{ first_post.url }}"
 						   class="dropdown-item">
@@ -21,7 +21,7 @@
 						
 							{{ resource }}
 						</a>
-						</button>     
+						    
 						
 						<ul class="sidebar1">
 							{% for post in site.categories[resource] reversed %}
