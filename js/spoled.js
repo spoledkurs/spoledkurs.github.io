@@ -6,7 +6,7 @@ $('.sidebar1 li').attr('id', function(i) {
 $(document).ready(function(){
     $('.sidebar1').hide(); 
    
-    $('.module-name').children().on('click', function(){
+    $('.module-name').children().click(function(){
         $(this).children('.sidebar1').toggle('slow');
     });
 }); 
