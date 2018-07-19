@@ -3,11 +3,19 @@ $('.sidebar1 li').attr('id', function(i) {
 });
 
 
+$('.sidebar1').hide();
 
-$('.module-name > li > a').click(function(){
+$('.module-name').children().click(function(){
+    $(this).children('.sidebar1').slideToggle('slow');     
+}).children('.sidebar1').click(function (event) {
+    event.stopPropagation();
+});
+
+
+/*$('.module-name > li > a').click(function(){
     event.preventDefault();
     $(this).siblings('.sidebar1').slideToggle('slow');
-});
+}); */
 
 /* $(document).ready(function(){
     $('.sidebar1').hide(); 
