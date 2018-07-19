@@ -17,7 +17,8 @@
 	
 	{% for module in site.data.course.modules %}
 					{% assign first_post = site.categories[module]|reverse|first %}
-						<button class="button-sidebar"> 
+					<ul class="module-name">	
+					<!-- <button class="button-sidebar"> -->
 							
 					<a href="{{ site.baseurl }}{{ first_post.url }}"
 						   class="dropdown-item">
@@ -25,7 +26,7 @@
 						
 							{{ module }}
 						</a>
-						</button>     
+						<!-- </button>  -->   
 						
 						<ul class="sidebar1">
 							{% for post in site.categories[module] reversed %}
@@ -38,6 +39,7 @@
 								{% endfor %}
 						</ul>
 					</li>
+				</ul>	
 	
 			{% endfor %}	
 						
