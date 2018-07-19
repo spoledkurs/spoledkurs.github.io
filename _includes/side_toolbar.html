@@ -17,7 +17,7 @@
 			<ul class="module-name">
 			{% for module in site.data.course.modules %}
 					{% assign first_post = site.categories[module]|reverse|first %}
-					<ul class="module-name">	
+						
 					<!-- <button class="button-sidebar"> -->
 							
 					<a href="{{ site.baseurl }}{{ first_post.url }}"
