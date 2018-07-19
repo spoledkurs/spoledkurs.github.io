@@ -3,7 +3,7 @@ $('.sidebar1 li').attr('id', function(i) {
 });
 
 
-$('.sidebar1').hide();
+/* $('.sidebar1').hide(); */
 
 $('.module-name').children().click(function(){
     $(this).children('.sidebar1').slideToggle('slow');     
