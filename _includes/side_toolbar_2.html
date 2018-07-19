@@ -12,7 +12,7 @@
 		</div>
 		<hr />
 	{% endif %} -->
-	
+	<ul class="module-name">
 	{% for resource in site.data.course.resources %}
 					{% assign first_post = site.categories[resource]|reverse|first %}
 					<li class="dropdown {% if page.categories[2] == resource %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">	
@@ -38,7 +38,7 @@
 					</li>
 	
 			{% endfor %}	
-						
+		</ul>				
 	<!--
 	{% if next %}
 		<hr />
