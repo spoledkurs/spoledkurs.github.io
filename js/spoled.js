@@ -7,8 +7,8 @@ $('.sidebar1 li').attr('id', function(i) {
 
 $('.module-name').children().click(function(){
     $(this).children('.sidebar1').slideToggle('slow');     
-/* }).children('.sidebar1').click(function (event) {
-    event.stopPropagation(); */
+ }).children('.sidebar1').click(function (event) {
+    event.stopPropagation(); 
 });
 
 
