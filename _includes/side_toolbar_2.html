@@ -13,12 +13,11 @@
 		<hr />
 	{% endif %} -->
 	<ul class="module-name">
-	{% for resource in site.data.course.resources %}
+	{% for 'społed matematyka' in site.data.course.resources %}
 					{% assign first_post = site.categories[resource]|reverse|first %}
-					{% assign first_page = site.categories[resource]|first %}
 					<li class="dropdown {% if page.categories[2] == resource %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">	
 						
-					<a href="{{ site.baseurl }}/static_pages/o-projekcie/"
+					<a href="{{ site.baseurl }}/static_pages/społed matematyka/"
 						   class="dropdown-item">
 						
 						
