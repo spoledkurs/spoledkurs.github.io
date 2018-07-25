@@ -1,5 +1,5 @@
 ---
-layout: "course_page_2
+layout: "course_page_2"
 ---
 
 test test
