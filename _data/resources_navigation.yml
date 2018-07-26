@@ -2,11 +2,11 @@ docs_list_title: do ukrycia
 resources:
 
 - title: SPOŁED MATEMATYKA
-  url: /static_pages/spoled-matematyka
+  url: /spoled_test/static_pages/spoled-matematyka
 
 - title: PRZEWODNIK PO OZE
-  url: /static_pages/przewodnik-po-oze
+  url: /spoled_test/static_pages/przewodnik-po-oze
 
 - title: INFOGRAFIKI
-  url: /static_pages/infografiki
+  url: /spoled_test/static_pages/infografiki
 
