@@ -13,9 +13,11 @@ resources:
       - page: PRACA W GRUPACH
         url: /praca-w-grupach.html
 - title: do ukrycia
+   subfolderitems:
   - page: PRZEWODNIK PO OZE
       url: /przewodnik-po-oze.html
-- title: do ukrycia  
+- title: do ukrycia
+   subfolderitems:
   - page: INFOGRAFIKI
       url: /infografiki.html    
   
