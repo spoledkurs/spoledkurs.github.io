@@ -13,7 +13,7 @@
 		<hr />
 	{% endif %} -->
 	{% for item in site.data.resources_navigation.resources %}
-	<a href="{{ item.url }}"><h3>{{ item.title }}</h3></a>
+	<a href="{{ item.url }}"><h3>{{ item.page }}</h3></a>
       <ul>
         {% for entry in item.subfolderitems %}
           <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
