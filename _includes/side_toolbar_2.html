@@ -12,14 +12,18 @@
 		</div>
 		<hr />
 	{% endif %} -->
-{% for item in site.data.resources_navigation.resources %}
-    <h3>{{ item.title }}</h3>
-      <ul>
-        {% for entry in item.subfolderitems %}
-          <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
-        {% endfor %}
-      </ul>
-  {% endfor %}
+	<ul>
+		<li>SPOŁED MATEMATYKA</li>
+			<ul>
+				<li>MATEMATYKA PRAKTYCZNIE</li>
+				<li>CZAS NA APP</li>
+				<li>PRZEMYCIĆ MATEMATYKĘ</li>
+				<li>PRACA W GRUPACH</li>
+			</ul>
+		<li>PRZEWODNIK PO OZE/li>
+		<li>INFOGRAFIKI</li>
+	</ul>
+	
 	<!--
 	{% if next %}
 		<hr />
