@@ -13,19 +13,19 @@
 		<hr />
 	{% endif %} -->
 	<ul class="module-name">
-	{% for społed matematyka in site.data.course.resources %}
+	{% for resource in site.data.course.resources %}
 					{% assign first_post = site.categories[resource]|reverse|first %}
 					<li class="dropdown {% if page.categories[2] == resource %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">	
 						
-					<a href="{{ site.baseurl }}/static_pages/spoled-matematyka/"
+					<a href="{{ site.baseurl }}{{ first_post.url }}"
 						   class="dropdown-item">
 						
 						
-							SPOŁED MATEMATYKA
+							{{ resource }}
 						</a>    
 						
 						<ul class="sidebar1">
-							{% for post in site.categories[społed matematyka] reversed %}
+							{% for post in site.categories[resource] reversed %}
 							<li class="dropdown {% if post.url == page.url %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
 							<a href="{{ site.baseurl }}{{ post.url }}" 
 							   class="dropdown-item">
