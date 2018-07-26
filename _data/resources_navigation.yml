@@ -1,12 +1,14 @@
-docs_list_title: do ukrycia
+
 resources:
-
-- title: SPOŁED MATEMATYKA
-  url: /spoled_test/static_pages/spoled-matematyka
-
-- title: PRZEWODNIK PO OZE
-  url: /spoled_test/static_pages/przewodnik-po-oze
-
-- title: INFOGRAFIKI
-  url: /spoled_test/static_pages/infografiki
-
+- title: do ukrycia
+    subfolderitems:
+    - page: SPOŁED MATEMATYKA
+      url: /spoled_test/static_pages/spoled-matematyka
+- title: do ukrycia
+    subfolderitems:
+    - page: PRZEWODNIK PO OZE
+      url: /spoled_test/static_pages/przewodnik-po-oze
+- title: do ukrycia
+    subfolderitems:
+    - page: INFOGRAFIKI
+      url: /spoled_test/static_pages/infografiki
