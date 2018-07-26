@@ -1,0 +1,19 @@
+resources:
+  - title: SPOŁED MATEMATYKA
+      url: /spoled-matematyka.html
+    subfolderitems:
+      - page: MATEMATYKA PRAKTYCZNIE
+        url: /matematyka-praktycznie.html
+      - page: CZAS NA APP
+        url: /czas-na-app.html
+      - page: PRZEMYCIĆ MATEMATYKĘ
+        url: /przemycic-matematyke.html
+      - page: PRACA W GRUPACH
+        url: /praca-w-grupach.html
+  - title: PRZEWODNIK PO OZE
+      url: /przewodnik-po-oze.html
+  - title: INFOGRAFIKI
+      url: /infografiki.html    
+  
+    
+  
