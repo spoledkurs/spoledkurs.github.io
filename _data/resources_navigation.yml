@@ -1,5 +1,5 @@
 resources:
-  - title: SPOŁED MATEMATYKA
+  - page: SPOŁED MATEMATYKA
       url: /spoled-matematyka.html
     subfolderitems:
       - page: MATEMATYKA PRAKTYCZNIE
@@ -10,9 +10,9 @@ resources:
         url: /przemycic-matematyke.html
       - page: PRACA W GRUPACH
         url: /praca-w-grupach.html
-  - title: PRZEWODNIK PO OZE
+  - page: PRZEWODNIK PO OZE
       url: /przewodnik-po-oze.html
-  - title: INFOGRAFIKI
+  - page: INFOGRAFIKI
       url: /infografiki.html    
   
     
