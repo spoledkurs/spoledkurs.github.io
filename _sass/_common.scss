@@ -80,7 +80,7 @@ li {
 	display: block;
 	line-height: 4;
 	text-transform: uppercase;
-	color: #ffffff;
+	color: #000000;
 }
 
 /*.sidebar li a:before {
@@ -138,6 +138,7 @@ li {
 
 .sidebar1 li.active {
 	background-color: #559fbc;
+	color: #ffffff;
 }
 
 .sidebar1 li.active a:hover {
