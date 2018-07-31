@@ -79,7 +79,7 @@ li {
 	display: block;
 	line-height: 4;
 	text-transform: uppercase;
-	@include transition(color, 0.3s, linear);
+	color: #000000;
 }
 
 .sidebar li a:before {
@@ -171,13 +171,13 @@ li {
 	display: block;
 	line-height: 4;
 	text-transform: uppercase;
-	@include transition(color, 0.3s, linear);
+	color: #000000;
 }
 
 .sidebar1 li a:before {
 	content: "\f005";
 	font-family: FontAwesome;
-	color: #000000;;
+	color: #000000;
 	position: absolute;
 	left: 29px;
 	line-height: 1.7;
@@ -272,9 +272,9 @@ blockquote {
 }
 
 .button-sidebar {
-	background-color: #F3F4F8;
+	background-color: #559fbc;
    	border: none;
-    	color: #5F9EA0;
+    	color: #000000;
     	/* padding: 15px 32px; */
    	text-align: left;
    	text-decoration: none;
