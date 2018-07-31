@@ -42,7 +42,7 @@ li {
 }
 
 .sidebar li:hover {
-	background-color: #F3F4F8;
+	background-color: #559fbc;
 
 	a:hover, a:focus {
 		text-decoration: none;
@@ -55,7 +55,7 @@ li {
 }
 
 .sidebar li.active a:hover {
-	color: cadetblue;
+	color: #000000;
 }
 
 /*stąd wycięty li::before */
@@ -94,7 +94,7 @@ li {
 	border-radius: 50%;
 	border: 3px solid $gray;
 	top: 18px;
-	background-color: white;
+	background-color: #559fbc;
 	text-align: center;
 	font-size: 0.8em;
 }
