@@ -123,11 +123,11 @@ li {
 	line-height: 4;
 	padding-left: 60px;
 	position: relative;
-	@include transition(color, 0.3s, linear);
+	
 }
 
 .sidebar1 li:hover {
-	background-color: #F3F4F8;
+	background-color: #559fcb;
 
 	a:hover, a:focus {
 		text-decoration: none;
@@ -136,7 +136,7 @@ li {
 }
 
 .sidebar1 li.active {
-	background-color: $white;
+	background-color: #559fcb;
 }
 
 .sidebar1 li.active a:hover {
