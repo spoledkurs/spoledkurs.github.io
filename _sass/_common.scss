@@ -1,5 +1,5 @@
 body {
-	background-color: $gray-lighter;
+	background-color: #ffffff;
 	font-family: 'Rubik', sans-serif !important;
 }
 
@@ -51,7 +51,7 @@ li {
 }
 
 .sidebar li.active {
-	/* background-color: $white; */
+	color: #ffffff; 
 }
 
 .sidebar li.active a:hover  {
