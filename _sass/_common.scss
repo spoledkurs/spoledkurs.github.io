@@ -46,7 +46,7 @@ li {
 
 	a:hover, a:focus {
 		text-decoration: none;
-		/* color: $white; */
+		color: #ffffff; 
 	}
 }
 
@@ -54,7 +54,7 @@ li {
 	/* background-color: $white; */
 }
 
-.sidebar li.active /*a:hover */ {
+.sidebar li.active a:hover  {
 	color: #ffffff;
 }
 
