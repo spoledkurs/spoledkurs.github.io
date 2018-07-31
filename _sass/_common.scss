@@ -45,7 +45,7 @@ li {
 .sidebar li:hover {
 	background-color: #559fbc !important;
 
-	a:hover, a:focus {
+	a:hover, a:focus, a:active {
 		text-decoration: none;
 		color: #ffffff; 
 	}
@@ -130,7 +130,7 @@ li {
 .sidebar1 li:hover {
 	background-color: #559fcb;
 
-	a:hover, a:focus {
+	a:hover, a:focus, a:active {
 		text-decoration: none;
 		color: #000000;;
 	}
