@@ -45,13 +45,17 @@ li {
 .sidebar li:hover {
 	background-color: #559fbc !important;
 
-	a:hover, a:focus, a:active {
+	a:hover, a:focus {
 		text-decoration: none;
 		color: #ffffff; 
 	}
 }
 
 .sidebar li:active {
+	color: #ffffff !important; 
+}
+
+.sidebar li:focus {
 	color: #ffffff !important; 
 }
 
@@ -130,7 +134,7 @@ li {
 .sidebar1 li:hover {
 	background-color: #559fcb;
 
-	a:hover, a:focus, a:active {
+	a:hover, a:focus {
 		text-decoration: none;
 		color: #000000;;
 	}
@@ -143,6 +147,10 @@ li {
 
 .sidebar1 li.active a:hover {
 	color: #ffffff;
+}
+
+.sidebar1 li:focus {
+	color: #ffffff !important; 
 }
 
 /*.sidebar1 li:before {
