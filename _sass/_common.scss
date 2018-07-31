@@ -139,18 +139,18 @@ li {
 	background-color: #559fbc;
 }
 
-.sidebar1 li.active /*a:hover*/ {
+.sidebar1 li.active a:hover {
 	color: #ffffff;
 }
 
-.sidebar1 li:before {
+/*.sidebar1 li:before {
 	content: "";
 	border-left: 3px solid #aab0bf;
 	position: absolute;
 	left: 40px;
 	height: 100%;
 	top: 0;
-}
+} */
 
 .sidebar1 li.first:before {
 	height: 50%;
@@ -174,7 +174,7 @@ li {
 	color: #000000;
 }
 
-.sidebar1 li a:before {
+/*.sidebar1 li a:before {
 	content: "\f005";
 	font-family: FontAwesome;
 	color: #000000;
@@ -198,7 +198,7 @@ li {
 .sidebar1 li a:after {
 	content: "";
 
-}
+} */
 
 .pagination-section {
 	margin: 1em 0;
