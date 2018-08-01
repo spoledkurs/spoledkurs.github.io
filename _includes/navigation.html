@@ -1,48 +1,31 @@
 <!-- Navigation -->
 <nav class="navbar navbar-default" role="navigation">
-
-	<!-- Brand and toggle get grouped for better mobile display -->
-	<div class="navbar-header">
-		<a href="#" class="navbar-toggle" data-toggle="collapse" data-target="#p2pu-menu">
-			<i class="fa fa-bars"></i>
-		</a>
-		<a class="navbar-left" href="{{ site.baseurl }}">
-		   <img class="main-logo" alt="logo Społed" src="{{ site.baseurl }}/img/spoled-logo-01.png" /></a> 
-		</div>
-	<!-- Collect the nav links, forms, and other content for toggling -->
-	<div class="container">
-		</div>
-		<div class="collapse navbar-collapse" id="p2pu-menu">
-			<ul class="nav navbar-nav">
-				<!-- <li>
-					<a href="{{ site.baseurl }}/"><i class="fa fa-home"></i></a>
-				</li> -->
-				
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-left" href="{{ site.baseurl }}">
+			<img class="main-logo" alt="logo Społed" src="{{ site.baseurl }}/img/spoled-logo-01.png" /></a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
 				<li>	
 					<a href="{{site.baseurl }}/modules/wprowadzenie/witamy/">Kurs</a>
 				</li>	
-				
+					
 				<li>
 					<a href="{{site.baseurl }}/static_pages/zasoby/">Zasoby</a>
 				</li>
 
 				<li>
 					<a href="{{site.baseurl }}/static_pages/o-projekcie/">O Społedzie</a>
-				</li>	
-
-				
-			<!--	<li>
-					<a href="http://community.p2pu.org/c/course-in-a-box" target="_blank">Forum</a>
-				</li> -->
-			</ul>
-      {% if site.github.owner_name == 'p2pu' %}
-			<ul class="p2pu-logo">
-				<li><a class="p2pu-tab" href="https://www.p2pu.org/"><img src="{{ site.baseurl }}/img/logo.png" alt="{{ site.title }}" /></a></li>
-			</ul>
-      {% endif %}
-		</div>
-		<!-- /.navbar-collapse -->
-	</div>
-	<!-- /.container-fluid -->
+				</li> 
+          </ul>
+        </div>
+      </div>
 </nav>
 <!-- End Navigation -->
