@@ -35,7 +35,7 @@ $navbar-light: $gray-snow;
 	transition: all 0.3s linear;
 	&:hover, &:focus {
 		background-color: $gray;
-		color: $white;
+		color: #000000;
 	}
 }
 
@@ -277,7 +277,7 @@ $navbar-light: $gray-snow;
 		& > li > a {
 			&:hover, &:focus {
 				background-color: #ffffff;
-				color: #000000;
+				color: #559fbc;
 			}
 		}
 		& > li.active {
@@ -307,7 +307,7 @@ $navbar-light: $gray-snow;
 				}
 			}
 			& > li.active a {
-				color: $gray-light;
+				color: #559fbc;
 				background-color: darken($brand-primary, 10%);
 			}
 
