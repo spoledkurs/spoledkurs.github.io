@@ -274,11 +274,12 @@ $navbar-light: $gray-snow;
 	}
 
 	.navbar-nav {
-		& > li {
-			color: #559fbc;
-		}
+		
 		
 		& > li > a {
+			
+			color: #000000;
+			
 			&:hover, &:focus {
 				background-color: #ffffff;
 				color: #559fbc;
