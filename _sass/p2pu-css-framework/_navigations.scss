@@ -52,7 +52,7 @@ $navbar-light: $gray-snow;
 
 	@media (min-width: $grid-float-breakpoint) {
 		margin-bottom: 60px;
-		border-bottom: 2em solid transparent;
+		/* border-bottom: 2em solid transparent; */
 	}
 
 }
