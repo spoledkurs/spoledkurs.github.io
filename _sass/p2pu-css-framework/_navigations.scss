@@ -260,7 +260,7 @@ $navbar-light: $gray-snow;
 
 // Default navbar
 .navbar-default {
-	background-color: $navbar-dark;
+	background-color: #ffffff;
 
 	@media (min-width: $grid-float-breakpoint) {
 		border-bottom-color: $navbar;
@@ -276,15 +276,15 @@ $navbar-light: $gray-snow;
 	.navbar-nav {
 		& > li > a {
 			&:hover, &:focus {
-				background-color: $navbar;
-				color: $navbar-light;
+				background-color: #ffffff;
+				color: #000000;
 			}
 		}
 		& > li.active {
 			background-color: $navbar;
 			a, a:hover, a:focus {
-				color: $navbar-light;
-				background-color: $navbar;
+				color: #559fbc;
+				background-color: #ffffff;
 			}
 		}
 
