@@ -263,11 +263,11 @@ $navbar-light: $gray-snow;
 	background-color: #ffffff;
 
 	@media (min-width: $grid-float-breakpoint) {
-		border-bottom-color: $navbar;
+		border-bottom-color: #ffffff;
 	}
 
 	.navbar-toggle {
-		color: $white;
+		color: #000000;
 		&:hover, &:focus {
 			background-color: $navbar-dark;
 		}
