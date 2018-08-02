@@ -281,6 +281,7 @@ $navbar-light: $gray-snow;
 			color: #000000;
 			font-weight: bold;
 			font-size: 17pt;
+			text-transform: lowercase;
 			
 			&:hover, &:focus {
 				background-color: #ffffff;
