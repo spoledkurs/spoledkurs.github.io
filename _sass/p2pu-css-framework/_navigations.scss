@@ -260,9 +260,7 @@ $navbar-light: $gray-snow;
 
 // Default navbar
 
-.navbar-toggle .icon-bar {
-    background-color: #000000;
-}
+
 
 .navbar-default {
 	background-color: #ffffff;
@@ -271,6 +269,9 @@ $navbar-light: $gray-snow;
 		border-bottom-color: #ffffff;
 	}
 	
+	.navbar-toggle .icon-bar {
+    	background-color: #000000;
+	}
 
 	.navbar-toggle {
 		color: #000000;
