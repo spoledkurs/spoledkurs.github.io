@@ -259,12 +259,18 @@ $navbar-light: $gray-snow;
 // --------------------------------------------------
 
 // Default navbar
+
+.navbar-toggle collapsed {
+	color: #000000;
+}
+
 .navbar-default {
 	background-color: #ffffff;
 
 	@media (min-width: $grid-float-breakpoint) {
 		border-bottom-color: #ffffff;
 	}
+	
 
 	.navbar-toggle {
 		color: #000000;
