@@ -16,8 +16,14 @@ body {
 	min-height: 693px;
 	max-width: 1300px;
 	background-position: center !important;
-	padding: 0 !important;;
-	margin: 0 !important;;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.jumbotron header h1 {
+	font-famly: 'Rubik' !important;
+	font-weight: bold;
+	font-size: 45pt;
 }
 
 .navbar-brand {
