@@ -13,8 +13,9 @@ body {
 }
 
 .jumbotron {
-	max-height: 693px;
+	min-height: 693px;
 	max-width: 1300px;
+	background-position: center;
 }
 
 .navbar-brand {
