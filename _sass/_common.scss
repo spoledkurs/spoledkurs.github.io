@@ -64,6 +64,8 @@ body {
  
   border-radius: 0px !important;
   font-size: 17pt;
+  height: 56px;
+  width: 214px;	
 }
 
 .btn {
@@ -88,10 +90,15 @@ body {
     color: black !important;
 	}
 	
-	.btn-default {
-	background-color: #fff;
+.btn-default {
+    background-color: #fff;
     border-color: #fff;
-	}
+}
+
+.btn-default:hover {
+    background: red;
+}	
+
 	
 .container-front {
 	width: 100% !important;
