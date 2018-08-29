@@ -64,8 +64,7 @@ body {
  
   border-radius: 0px !important;
   font-size: 17pt;
-  height: 56px;
-  width: 214px;	
+  width: 200% !important;	
 }
 
 .btn {
@@ -81,7 +80,7 @@ body {
     white-space: nowrap;
     padding: 10px 15px;
     line-height: 1.428571429;
-    border-radius: 0;
+    border: none;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
