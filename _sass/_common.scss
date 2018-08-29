@@ -15,7 +15,7 @@ body {
 
 .jumbotron {
 	min-height: 693px;
-	max-width: 1300px;
+	width: 1300px;
 	background-position: center !important;
 	padding: 0 !important;
 	margin: 0 !important;
@@ -28,6 +28,9 @@ body {
 }
 
 
+.navbar {
+	height: 124px;
+}
 
 .navbar-brand {
 	padding: 12.5px 15px;
