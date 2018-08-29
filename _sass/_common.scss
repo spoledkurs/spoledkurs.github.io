@@ -139,6 +139,18 @@ body {
 	margin-right: 180px;
 }
 
+@media (max-width: 1142px) {
+	#intro {
+	   text-align: center;
+	   font-weight: bold;
+	   font-size: 20pt;
+	   margin-left: 120px !important;
+	   margin-right: 120px !important;
+}	
+
+}
+
+
 .p2pu-footer {
 	margin-top: 0;
 }
