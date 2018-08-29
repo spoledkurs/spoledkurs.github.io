@@ -46,7 +46,14 @@ body {
 	margin-top: 30px; 
 }
 
-
+@media (max-width: 991px) {
+    .navbar {
+        height: auto !important;
+}
+    #navbar {
+	padding-top: 0 !important;
+}
+	
 .container-front {
 	width: 100% !important;
 	padding: 0;
