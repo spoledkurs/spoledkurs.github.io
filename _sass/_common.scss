@@ -126,8 +126,6 @@ body {
 	background-repeat:no-repeat;
     	background-size: auto;
 	background-position: center; 
-	font-weight: bold;
-	font-size: 18pt;
 	padding-top: 60px;
 	padding-bottom: 60px;
 
@@ -135,6 +133,10 @@ body {
 
 #intro {
 	text-align: center;
+	font-weight: bold;
+	font-size: 20pt;
+	margin-left: 180px;
+	margin-right: 180px;
 }
 
 .p2pu-footer {
