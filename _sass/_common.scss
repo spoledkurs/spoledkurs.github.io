@@ -47,6 +47,15 @@ body {
 	}
 }
 
+@media (max-width: 380px) {
+    .jumbotron header h1 {
+	top: 150px !important;
+	font-size: 40pt !important;    
+	}
+	
+}
+
+
 .jumbotron {
 	height: 693px;
 	/*width: 1300px; */
