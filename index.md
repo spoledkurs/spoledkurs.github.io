@@ -9,7 +9,7 @@ i uczyć się wzajemnie o procesie adaptacji. Kurs będzie okazją do tego, aby 
 </div>  
 
 <div class="home-intro">
-  Kurs będzie okazją do tego, aby dzielić się swoimi doświaczeniami i stać się częścią społeczności praktyków korzystających z otwartych zasobów online.
+  <p>Kurs będzie okazją do tego, aby dzielić się swoimi doświaczeniami i stać się częścią społeczności praktyków korzystających z otwartych zasobów online.</p>
 </div>  
 
 <div>
