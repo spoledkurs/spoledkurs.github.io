@@ -140,12 +140,17 @@ body {
 }
 
 @media (max-width: 1142px) {
+	
+	.home-intro {
+    	background-size: cover !important;
+
+}
 	#intro {
 	   text-align: center;
 	   font-weight: bold;
 	   font-size: 20pt;
-	   margin-left: 120px !important;
-	   margin-right: 120px !important;
+	   margin-left: 100px !important;
+	   margin-right: 100px !important;
 }	
 
 }
