@@ -15,7 +15,7 @@ body {
 
 .jumbotron {
 	min-height: 693px;
-	width: 1300px;
+	/*width: 1300px; */
 	background-position: center !important;
 	padding: 0 !important;
 	margin: 0 !important;
@@ -32,6 +32,10 @@ body {
 	height: 124px;
 }
 
+#navbar {
+	padding-top: 15px;
+}
+
 .navbar-brand {
 	padding: 12.5px 15px;
 	
@@ -39,6 +43,7 @@ body {
 
  .main-logo {
 	height: 64px !important;
+	margin-top: 30px; 
 }
 
 
