@@ -1,6 +1,6 @@
 title: SpołEd - kurs tworzenia OZE
 description: Naucz się, jak tworzyć otwarte zasoby edukacyjne
-modules: ['Wprowadzenie', 'Otwarta edukacja', 'Otwarte zasoby edukacyjne', 'Tworzenie OZE', 'Promocja i publikacja', 'Podsumowanie']
+modules: ['wprowadzenie', 'otwarta edukacja', 'otwarte zasoby edukacyjne', 'tworzenie oze', 'promocja i publikacja', 'podsumowanie']
 
 signups:
  - name: Geert Hofman
