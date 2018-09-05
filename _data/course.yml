@@ -1,6 +1,6 @@
 title: SpołEd - kurs tworzenia OZE
 description: Otwarta edukacja w praktyce
-modules: ['wprowadzenie', 'otwarta edukacja', 'otwarte zasoby edukacyjne', 'tworzenie oze', 'promocja i publikacja', 'podsumowanie']
+modules: ['Wprowadzenie', 'otwarta edukacja', 'otwarte zasoby edukacyjne', 'tworzenie oze', 'promocja i publikacja', 'podsumowanie']
 
 signups:
  - name: Geert Hofman
