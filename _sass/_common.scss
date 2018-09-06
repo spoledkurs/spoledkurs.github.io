@@ -218,7 +218,6 @@ li {
 	position: relative;
 	font-size: 14pt;
 	font-weight: 700;
-	color: #ffffff;
 	
 }
 
@@ -263,7 +262,7 @@ li {
 .sidebar li a {
 	display: block;
 	line-height: 3;
-	color: #000000;
+	color: #ffffff;
 }
 
 /*.sidebar li a:before {
@@ -327,15 +326,15 @@ li {
 
 .sidebar1 li.active {
 	background-color: #559fbc;
-	color: #ffffff;
+	color: #000000;
 }
 
 .sidebar1 li.active a:hover {
-	color: #ffffff;
+	color: #000000;
 }
 
 .sidebar1 li:focus {
-	color: #ffffff !important; 
+	color: #000000 !important; 
 }
 
 /*.sidebar1 li:before {
@@ -365,7 +364,7 @@ li {
 .sidebar1 li a {
 	display: block;
 	line-height: 3;
-	color: #000000;
+	color: #ffffff;
 }
 
 /*.sidebar1 li a:before {
