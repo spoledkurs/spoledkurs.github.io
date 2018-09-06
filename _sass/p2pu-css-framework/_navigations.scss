@@ -290,10 +290,12 @@ $navbar-light: $gray-snow;
 			font-size: 17pt;
 			text-transform: lowercase;
 			
-			&:hover, &:focus {
+			&:visited, &:hover, &:focus {
 				background-color: #ffffff;
 				color: #559fbc;
 			}
+			
+		
 		}
 		& > li.active {
 			background-color: $navbar;
