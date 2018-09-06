@@ -484,8 +484,12 @@ blockquote {
 
 .about-project {
 	background: url("https://kasiawerner.github.io/spoled_test/img/baner-o-projekcie.png");
+	background-position: center; 
+	background-repeat: no-repeat;
 	height: 326px;
 	width: 100%;
+	position: relative;
+	top: -22px;
 }
 
 #about-project {
