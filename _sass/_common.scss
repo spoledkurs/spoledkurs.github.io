@@ -194,6 +194,7 @@ video {
 	font-weight: bold;
 	padding-left: 30px;
 	padding-bottom: 30px;
+	color: #ffffff
 }
 
 .sidebar {
@@ -217,6 +218,7 @@ li {
 	position: relative;
 	font-size: 14pt;
 	font-weight: 700;
+	color: #ffffff;
 	
 }
 
@@ -225,20 +227,20 @@ li {
 
 	a:hover, a:focus {
 		text-decoration: none;
-		color: #ffffff; 
+		color: #000000; 
 	}
 }
 
 .sidebar li:active {
-	color: #ffffff !important; 
+	color: #000000 !important; 
 }
 
 .sidebar li:focus {
-	color: #ffffff !important; 
+	color: #000000 !important; 
 }
 
 .sidebar li.active a:hover  {
-	color: #ffffff;
+	color: #000000;
 }
 
 /*stąd wycięty li::before */
