@@ -226,7 +226,7 @@ li {
 }
 
 .sidebar li:hover {
-	background-color: #559fbc !important;
+	background-color: #ffcc66 !important;
 
 	a:hover, a:focus {
 		text-decoration: none;
@@ -281,7 +281,7 @@ li {
 	border-radius: 50%;
 	border: 3px solid $gray;
 	top: 18px;
-	background-color: #559fbc;
+	background-color: #ffcc66;
 	text-align: center;
 	font-size: 0.8em;
 }
@@ -329,7 +329,7 @@ li {
 }
 
 .sidebar1 li.active {
-	background-color: #559fbc;
+	background-color: #ffcc66;
 	color: #000000;
 }
 
@@ -469,7 +469,7 @@ blockquote {
 }
 
 .button-sidebar {
-	background-color: #559fbc;
+	background-color: #ffcc66;
    	border: none;
     	color: #000000;
     	/* padding: 15px 32px; */
