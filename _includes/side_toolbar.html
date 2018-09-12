@@ -48,7 +48,21 @@
 			{% endfor %}	
 		</ul>	
 	
-	<script>
+	
+	<!--
+	{% if next %}
+		<hr />
+		<div class="pagination-section">
+			<div class="title">
+				Next module:
+			</div>
+			<a rel="next" class="next" href="{{ site.baseurl }}{{ next_post.url }}"> {{ next }}
+			</a>
+		</div>
+	{% endif %} -->
+</div>
+
+<script>
 		$('.sidebar1 li').attr('id', function(i) {
    return 'child'+(i+1);
 });
@@ -62,15 +76,3 @@ $('.module-name').children().click(function(){
     event.stopPropagation(); 
 });
 	</script>
-	<!--
-	{% if next %}
-		<hr />
-		<div class="pagination-section">
-			<div class="title">
-				Next module:
-			</div>
-			<a rel="next" class="next" href="{{ site.baseurl }}{{ next_post.url }}"> {{ next }}
-			</a>
-		</div>
-	{% endif %} -->
-</div>
