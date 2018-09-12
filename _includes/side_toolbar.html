@@ -1,8 +1,6 @@
 
 <!-- sidebar dla modułów kursu -->
 
-{% include spoled.js %}
-
 <div class="sidebar col-md-3">
 	<div class="sidebar-title">
 				Kurs
@@ -48,7 +46,22 @@
 					
 	
 			{% endfor %}	
-		</ul>			
+		</ul>	
+	
+	<script>
+		$('.sidebar1 li').attr('id', function(i) {
+   return 'child'+(i+1);
+});
+
+
+/* $('.sidebar1').hide(); */
+
+$('.module-name').children().click(function(){
+    $(this).children('.sidebar1').slideToggle('slow');     
+ }).children('.sidebar1').click(function (event) {
+    event.stopPropagation(); 
+});
+	</script>
 	<!--
 	{% if next %}
 		<hr />
