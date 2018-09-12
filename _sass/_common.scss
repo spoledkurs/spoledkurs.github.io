@@ -542,7 +542,7 @@ h2.team {
 }
 
 footer {
-	height: 200px;
+	min-height: 200px;
 	background-color: #c0c6c6;
 	padding-top: 48px;
 }
@@ -551,6 +551,4 @@ p.footer {
 	font-size: 14px;
 }
 
-img.footer {
-	height: 103px;
-}
+
