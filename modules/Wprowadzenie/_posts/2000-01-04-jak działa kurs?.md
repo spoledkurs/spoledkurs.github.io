@@ -1,1 +1,4 @@
 
+---
+layout: "course_page"
+---
