@@ -5,20 +5,9 @@
 				Zasoby
 </div>
 	
-	<!-- {% include next_module.html %}
-	{% if prev %}
-		<div class="pagination-section">
-			<div class="title">
-				Previous module:
-			</div>
-			<a rel="prev" class="prev" href="{{ site.baseurl }}{{ prev_post.url }}">
-				{{ prev }} </a>
-		</div>
-		<hr />
-	{% endif %} -->
 	<ul>
-		<li class="dropdown"><a class="dropdown-item" href="{{site.baseurl }}/static_pages/zasoby/spoled-matematyka">SpołEd matematyka</a>
-			<ul>
+		<li class="dropdown"><a class="dropdown-item" href="{{site.baseurl }}/static_pages/zasoby/spoled-matematyka" onclick="$('#HiddenUl').slideToggle('fast')">SpołEd matematyka</a>
+			<ul id="HiddenUl" style="display: none;">
 				<li class="dropdown"><a class="dropdown-item small" href="{{site.baseurl }}/static_pages/zasoby/spoled-matematyka/matematyka-praktycznie">Matematyka praktycznie</a></li>
 				<li class="dropdown"><a class="dropdown-item small" href="{{site.baseurl }}/static_pages/zasoby/spoled-matematyka/czas-na-app">Czas na App</a></li>
 				<li class="dropdown"><a class="dropdown-item small" href="{{site.baseurl }}/static_pages/zasoby/spoled-matematyka/przemycic-matematyke">Przemycić matematykę</a></li>
@@ -29,15 +18,4 @@
 		<li class="dropdown"><a class="dropdown-item" href="{{site.baseurl }}/static_pages/zasoby/infografiki">Infografiki</a></li>
 	</ul>
 	
-	<!--
-	{% if next %}
-		<hr />
-		<div class="pagination-section">
-			<div class="title">
-				Next module:
-			</div>
-			<a rel="next" class="next" href="{{ site.baseurl }}{{ next_post.url }}"> {{ next }}
-			</a>
-		</div>
-	{% endif %} -->
 </div>
