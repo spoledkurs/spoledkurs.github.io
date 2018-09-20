@@ -1,7 +1,8 @@
 
 ---
+
 layout: "course_page"
 
-title: "CentrumCyfrowe"
+title: "Centrum Cyfrowe"
 
 ---
