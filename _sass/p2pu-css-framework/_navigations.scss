@@ -292,7 +292,7 @@ $navbar-light: $gray-snow;
 			
 			&:hover, &:focus {
 				background-color: #ffffff;
-				color: #c54c46;
+				color: #3c7c96;
 			}
 			
 		
@@ -300,7 +300,7 @@ $navbar-light: $gray-snow;
 		& > li.active {
 			background-color: $navbar;
 			a, a:hover, a:focus {
-				color: #c54c46;
+				color: #3c7c96;
 				background-color: #ffffff;
 			}
 		}
