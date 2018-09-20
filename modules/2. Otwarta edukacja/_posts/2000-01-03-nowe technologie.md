@@ -1,5 +1,11 @@
 ---
+
 layout: "course_page"
+
+
+title: "Nowe technologie"
+
+
 ---
 
 Stay true to your path.
