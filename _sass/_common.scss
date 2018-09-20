@@ -212,12 +212,12 @@ video {
 	font-weight: bold;
 	padding-left: 30px;
 	padding-bottom: 30px;
-	color: #000000;
+	color: #FFFFFF;
 }
 
 .sidebar {
 	padding: 30px 0;
-	background-color: #ffcc66;
+	background-color: #559fbc;
 	height: 100% !important;
 }
 
@@ -248,20 +248,20 @@ li {
 
 	a:hover, a:focus {
 		text-decoration: none;
-		color: #c54c46; 
+		color: #000000; 
 	}
 }
 
 .sidebar li:active {
-	color: #c54c46 !important; 
+	color: #000000 !important; 
 }
 
 .sidebar li:focus {
-	color: #c54c46 !important; 
+	color: #000000 !important; 
 }
 
 .sidebar li.active a:hover  {
-	color: #c54c46;
+	color: #000000;
 }
 
 /*stąd wycięty li::before */
@@ -316,7 +316,7 @@ li {
 
 .sidebar1 {
 	padding: 30px 0;
-	background-color: #ffcc66;
+	background-color: #559fbc;
 }
 
 .sidebar1 ul {
@@ -342,21 +342,21 @@ li {
 
 	a:hover, a:focus {
 		text-decoration: none;
-		color: #c54c46;
+		color: #000000
 	}
 }
 
 .sidebar1 li.active {
-	background-color: #ffcc66;
-	color: #c54c46;
+	background-color: ##559fbc
+	color: #000000;
 }
 
 .sidebar1 li.active a:hover {
-	color: #c54c46;
+	color: #000000;
 }
 
 .sidebar1 li:focus {
-	color: #c54c46 !important; 
+	color: #000000!important; 
 }
 
 /*.sidebar1 li:before {
