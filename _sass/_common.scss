@@ -92,7 +92,7 @@ p {
 
 
 .jumbotron {
-	height: 693px;
+	height: auto;
 	/*width: 1300px; */
 	/*background-position: center !important; */
 	padding: 0 !important;
@@ -100,7 +100,7 @@ p {
 	/*background-position: bottom center;
 	background-repeat: no-repeat;*/
 	background-size: auto; 
-	background-color: #ffcc66;
+	background-color: transparent;
 	position: relative;
 }
 
