@@ -166,7 +166,7 @@ video {
 }
 
 .home-intro {
-	background-image: url("../img/header-home2.png");
+	background-image: url("../img/header-home2.svg");
 	background-repeat:no-repeat;
     	background-size: auto;
 	background-position: center; 
@@ -187,10 +187,6 @@ video {
 
 @media (max-width: 1155px) {
 	
-	.home-intro {
-    	background-size: cover !important;
-
-}
 	#intro {
 	   font-size: 21px;
 	   /*margin-left: 180px !important;
