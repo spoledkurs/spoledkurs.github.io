@@ -5,7 +5,7 @@ title: "Współpraca"
 ---
 
 <div class="text-center screen-title">
-Witamy na kursie
+Współpraca
 </div>
 
 
