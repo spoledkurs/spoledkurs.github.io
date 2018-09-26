@@ -4,4 +4,17 @@ layout: "course_page"
 title: "Czym jest SpołEd?"
 ---
 
-otwartej edukacji jest współpraca. To od niej zależy, czy nauczyciel lub twórca materiałów będzie miał wsparcie w swoich działaniach, czy uczeń będzie się czuł ważną częścią systemu. Czy edukacja będzie dostępna dla wszystkich niezależnie od możliwości ekonomicznych czy dysfunkcji. Od chęci współpracy zależy, czy w edukację będą mogli zaangażować się również rodzice, środowisko lokalne, eksperci. Jedną z ważnych dróg dojścia do otwartości w edukacji jest stwarzanie przestrzeni dla otwartych zasobów edukacyjnych. Otwarte zasoby edukacyjne to wszystkie materiały edukacyjne dostępne swobodnie i za darmo z możliwością ich dalszego dowolnego modyfikowania i wykorzystania. Otwieranie coraz większej liczby zasobów edukacyjnych i darmowe ich udostępnienia w formie cyfrowej stanowi odpowiedź na wiele potrzeb powyższych grup, przynosząc im konkretne korzyści. Współczesna edukacja stara się stopniowo rezygnować z modelu, w którym nauczyciel dysponuje bezwzględnym autorytetem, na rzecz budowania w uczniach autonomii i odpowiedzialności za swoją naukę, poczucie sprawstwa i podmiotowości. Pomocne w tych działaniach są technologie informacyjno-komunikacyjne, jako jedne z kluczowych czynników zmiany. Niezbędna są do tego kompetencje nauczycieli i infrastruktura technologiczna, choć równie ważnym elementem tej koncepcji jest założenie otwartości zasobów edukacyjnych. Uznanie otwartości jako fundamentalnej zasady przyświecającej szkole jest bowiem niezbędne, również po to, aby w pełni wykorzystać potencjał technologii informacyjno-komunikacyjnych w edukacji. Otwartość edukacji zmienia praktyki edukacyjne, stawiając ucznia w c
+<div class="text-center screen-title">
+Czym jest Spółdzielnia Otwartej Edukacji?
+</div>
+
+<div class="screen-content">
+  <p><strong>Działania SpołEdu skupiają się na wsparciu otwartej edukacji w polskiej szkole. Zależy nam na przywróceniu ducha współpracy wśród nauczycieli i nauczycielek, tak aby odkryli oni na nowo</strong> wartość i przyjemność wspólnego tworzenia, uczenia się przez doświadczenie, wymiany wiedzy i wzajemnego wsparcia. Nauczanie powinno być przygodą, w czasie której spotyka się niesamowitych ludzi, odważnie mierzy z rzeczywistością, myśli kreatywnie i twórczo.</p> 
+  
+<p>SpołEd ma na celu budowanie i doskonalenie modelu współpracy przy tworzeniu wysokiej jakości otwartych zasobów edukacyjnych (OZE). Tworzymy sieć nauczycielek i nauczycieli, którzy cenią sobie wzajemną pomoc, współdziałanie z uczniami i uczennicami, innymi szkołami, ze specjalist(k)ami z różnych dziedzin. Zależy nam też na podniesieniu kompetencji uczestników, uczestniczek projektu w zakresie wykorzystywania narzędzi cyfrowych w edukacji oraz zwiększeniu wiedzy dotyczącej prawa autorskiego, Creative Commons i wolnych licencji. </p>
+
+<p><strong>Manifest Spółdzielni</strong> </p>
+<p>
+  <img src="{{ site.baseurl }}/img/manifest.jpg" />
+ </p> 
+</div> 
