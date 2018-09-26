@@ -46,7 +46,7 @@ Gotowe otwarte zasoby można przesłać na adres: spoled@centrumcyfrowe.pl
   
   <p><strong>Treść kursu:</strong></p>  
 <p>
-<ol>_
+<ol>
 <li class="number">Wstęp - czym jest SpołEd, czym zajmuje się Centrum Cyfrowe, o kursie, autorzy i autorki kursu.</li>
 <li class="number">Otwarta edukacja - współpraca w edukacji, trendy w nowoczesnej edukacji, poszukiwanie satysfakcji z pracy, nowe technologie w edukacji, dostępność w edukacji.</li>
 <li class="number">Otwarte Zasoby Edukacyjne - czym są, gdzie ich szukać, jak rozpoznać zasoby wysokiej jakości.</li>
