@@ -47,12 +47,12 @@ Gotowe otwarte zasoby można przesłać na adres: spoled@centrumcyfrowe.pl
   <p><strong>Treść kursu:</strong></p>  
 <p>
 <ol>
-<li class="number">Wstęp - czym jest SpołEd, czym zajmuje się Centrum Cyfrowe, o kursie, autorzy i autorki kursu.</li>
-<li class="number">Otwarta edukacja - współpraca w edukacji, trendy w nowoczesnej edukacji, poszukiwanie satysfakcji z pracy, nowe technologie w edukacji, dostępność w edukacji.</li>
-<li class="number">Otwarte Zasoby Edukacyjne - czym są, gdzie ich szukać, jak rozpoznać zasoby wysokiej jakości.</li>
-<li class="number">Tworzenie otwartych zasobów - licencje, domena publiczna i dozwolony użytek, projektowanie materiałów do umieszczenia ich online, wstęp do design thinking, przykładowe metody pracy na lekcji - inspiracje, check lista otwartości.</li>
-<li class="number">Promocja i publikacja - gdzie umieszczać swoje materiały i jak je promować.</li>
-<li class="number">Podsumowanie.</li>
+<li type="1">Wstęp - czym jest SpołEd, czym zajmuje się Centrum Cyfrowe, o kursie, autorzy i autorki kursu.</li>
+<li type="1">Otwarta edukacja - współpraca w edukacji, trendy w nowoczesnej edukacji, poszukiwanie satysfakcji z pracy, nowe technologie w edukacji, dostępność w edukacji.</li>
+<li type="1">Otwarte Zasoby Edukacyjne - czym są, gdzie ich szukać, jak rozpoznać zasoby wysokiej jakości.</li>
+<li type="1">Tworzenie otwartych zasobów - licencje, domena publiczna i dozwolony użytek, projektowanie materiałów do umieszczenia ich online, wstęp do design thinking, przykładowe metody pracy na lekcji - inspiracje, check lista otwartości.</li>
+<li type="1">Promocja i publikacja - gdzie umieszczać swoje materiały i jak je promować.</li>
+<li type="1">Podsumowanie.</li>
 </ol>
 </p>
 </div> 
