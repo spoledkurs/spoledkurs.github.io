@@ -13,7 +13,7 @@ Harmonogram kursu
 </p> 
 </div> 
 <div class="row">
-  <div class="col-md-4 col-xs-4">
+  <div class="col-md-4 col-xs-4 text-center">
     I MODUŁ
    </div>
   <div class="col-md-8 col-xs-8">
@@ -21,7 +21,7 @@ Harmonogram kursu
    </div>
 </div>
 <div class="row">
-  <div class="col-md-4 col-xs-4">
+  <div class="col-md-4 col-xs-4 text-center">
     II MODUŁ
    </div>
   <div class="col-md-8 col-xs-8">
@@ -29,7 +29,7 @@ Harmonogram kursu
    </div>
 </div>
 <div class="row">
-  <div class="col-md-4 col-xs-4">
+  <div class="col-md-4 col-xs-4 text-center">
     III MODUŁ
    </div>
   <div class="col-md-8 col-xs-8">
@@ -37,7 +37,7 @@ Harmonogram kursu
    </div>
 </div>
 <div class="row">
-  <div class="col-md-4 col-xs-4">
+  <div class="col-md-4 col-xs-4 text-center">
     IV MODUŁ
    </div>
   <div class="col-md-8 col-xs-8">
@@ -45,7 +45,7 @@ Harmonogram kursu
    </div>
 </div>
 <div class="row">
-  <div class="col-md-4 col-xs-4">
+  <div class="col-md-4 col-xs-4 text-center">
     V MODUŁ
    </div>
   <div class="col-md-8 col-xs-8">
@@ -53,7 +53,7 @@ Harmonogram kursu
    </div>
 </div>
 <div class="row">
-  <div class="col-md-4 col-xs-4">
+  <div class="col-md-4 col-xs-4 text-center">
     VI MODUŁ
    </div>
   <div class="col-md-8 col-xs-8">
