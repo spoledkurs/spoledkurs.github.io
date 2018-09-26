@@ -18,3 +18,12 @@ W tym module dowiesz się...
 </ul>
 
 </div>  
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
