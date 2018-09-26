@@ -16,39 +16,6 @@ W tym module dowiesz się...
 <li class="bullet">jakie treści znajdziesz na kursie;</li>
 <li class="bullet">poznasz autorki i autorów kursu i dowiesz się, czym zajmuje się Centrum Cyfrowe.</li>
 </ul>
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 </div>  
-
+<div class="bottom-space">
+  </div>
