@@ -14,7 +14,8 @@ Słowniczek
 
 <div class="screen-content">
   <p>W czasie kursu będziemy używać pojęć związanych z tematyką otwartości, aby uściślić o czym mówimy, zdecydowaliśmy się stworzyć słowniczek pojęć.</p> 
-  &nbsp;
+ 
+ &nbsp;
   
  <p>
 <a class="content-link" href="#creative_commons">Creative Commons</a>
