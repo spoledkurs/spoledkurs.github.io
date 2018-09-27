@@ -17,7 +17,7 @@ Słowniczek
   &nbsp;
   
  <p>
-Creative Commons
+<a class="content-link" href="#creative_commons">Creative Commons</a>
 domena publiczna
 dozwolony użytek
 komercyjne użycie
@@ -29,7 +29,7 @@ uznanie autorstwa
 wolne licencje
  </p> 
  
- <p><strong>Creative Commons</strong><br/> 
+ <p><a name="creative_commons"><strong>Creative Commons</strong></a><br/> 
 amerykańska organizacja pozarządowa, która stworzyła własny system licencji i zajmuje się jego rozwijaniem. Licencje Creative Commons to gotowe rozwiązania prawne, z których można skorzystać od razu bez żadnego przygotowania prawniczego. Skorzystanie z licencji przez twórcę polega na oznaczeniu nią swojego utworu. Powoduje to udzielenie każdemu zezwolenia na korzystanie z tego utworu w zakresie określonym w licencji.
 </p>
 <p><strong>domena publiczna</strong><br/> 
