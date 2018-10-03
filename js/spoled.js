@@ -9,6 +9,8 @@ $('.module-name').children().click(function(){
     $(this).children('.sidebar1').slideToggle('slow');     
  }).children('.sidebar1').click(function (event) {
     event.stopPropagation(); 
+   
+   $('.sidebar1').show(); 
 });
 
 
