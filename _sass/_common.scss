@@ -110,7 +110,7 @@ p {
 	font-size: 60px;
 	color: #ffffff;
 	position: absolute;
-	top: 50%;
+	top: 37%;
 	left: 0;
 	right: 0;
 
@@ -141,8 +141,10 @@ p {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    position: relative;	
-    top: -110px;
+    position:absolute;	
+    top: 80%;
+    left: 0;
+    right: 0;	
 	}
 	
 .btn-default {
