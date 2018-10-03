@@ -11,5 +11,5 @@ $('.module-name').children().click(function(){
     event.stopPropagation(); 
 });
 
-
+$('.sidebar1').show(); 
 
