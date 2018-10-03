@@ -169,10 +169,7 @@ video {
 }
 
 .home-intro {
-	background-image: url("../img/header-home2.svg");
-	background-repeat:no-repeat;
-    	background-size: auto;
-	background-position: center; 
+	 
 	padding-top: 60px;
 	padding-bottom: 60px;
 
@@ -186,7 +183,10 @@ video {
 	margin-right: 180px; */
 	padding-left: 150px;
 	padding-right: 150px;
-	max-width: 704px;
+	background-image: url("../img/header-home2.svg");
+	background-repeat:no-repeat;
+    	background-size: auto;
+	background-position: center;
 }
 
 @media (max-width: 1155px) {
