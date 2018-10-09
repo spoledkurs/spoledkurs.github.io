@@ -1,0 +1,24 @@
+---
+layout: "course_page"
+
+title: "Wstęp"
+
+---
+
+<div class="text-center screen-title">
+"Wstęp"
+</div>
+
+<div class="screen-content">
+  <p>Już wiemy, co nas - i mamy nadzieję Ciebie także - napędza. Już wiemy, że bez współpracy, przygody i nowych technologii w otwartej edukacji byłoby trudno i nudno. W kolejnym module opowiemy, czym dokładnie są otwarte zasoby edukacyjne. 
+Aby dowiedzieć się więcej, warto przyjrzeć się początkom powstawania ruchu otwartości w edukacji. 
+</p>
+  
+  <p>
+<a class="content-link" href="http://www.capetowndeclaration.org/translations/polish-translation">Deklaracja Kapsztadzka</a> została podpisana ponad 10 lat temu i od tego czasu organizacje na całym świecie pracują nad wprowadzaniem otwartości w wiele dziedzin naszego życia związanych z edukacją. My, jako Centrum Cyfrowe, staramy się, aby edukacja stawała się coraz bardziej otwarta. I Ciebie też do tego zachęcamy. 
+
+&nbsp;
+http://prawokultury.pl/publikacje/wolne-licencje/
+</p>
+
+</div> 
