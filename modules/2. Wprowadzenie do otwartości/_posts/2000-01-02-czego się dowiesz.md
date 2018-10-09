@@ -12,12 +12,12 @@ title: "W tym module dowiesz się..."
 W tym module dowiesz się...
 </div>
 
+<div class="screen-content">
 Ten moduł jest poświęcony metodologii i narzędziom edukacyjnym, które mogą się przydać przy tworzeniu OZE (otwartych zasobów edukacyjnych). Znajdziesz tutaj inspirację i poznasz ludzi myślących o edukacji w otwarty sposób. Opowiemy Ci również o najważniejszych dla nas wartościach, które znajdziesz też w <a class="content-link" href="#">manifeście Spółdzielni Otwartej Edukacji</a>. Zobacz, co nas inspiruje do działania i daj się również do niego namówić!
 
 &nbsp;
 
 W tym module dowiesz się:
-<div class="screen-content">
 <ul>  
 <li class="bullet">czym może być współpraca w edukacji i do czego może doprowadzić;</li>
 <li class="bullet">jak to jest z tymi nowoczesnymi technologiami w edukacji?</li>
