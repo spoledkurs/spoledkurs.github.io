@@ -19,6 +19,8 @@ Czym są otwarte zasoby edukacyjne
 <li class="bullet"><strong>Redistribute</strong> - rozpowszechniania kopii oryginału lub zmodyfikowanej, zremiksowanej treści i dzielenia się nimi (np. opublikowanie kopii zasobu w sieci do dowolnego pobierania przez innych),</li>
 <li class="bullet"><strong>Retain</strong> - tworzenie własnych zasobów i zapewnienie ich obecności w sieci.</li>
  </ul>
+  </p>
+  <p class="source">
  Źródło: <a class="content-link" href="http://lumenlearning.com/about-oer/">The 5R Permissions of OER. Lumen Learning.</a> za:  <a class="content-link" href="http://www.exploerercourse.org/pl/">kurs Exploerer</a>. 
   </p>
 
