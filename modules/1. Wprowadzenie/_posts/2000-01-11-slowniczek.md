@@ -32,7 +32,7 @@ Słowniczek
  
   &nbsp;
  
- <p><class="content-link" name="creative_commons"><strong>Creative Commons</strong><br/> 
+ <p><a class="content-link" name="creative_commons"><strong>Creative Commons</strong></a><br/> 
 amerykańska organizacja pozarządowa, która stworzyła własny system licencji i zajmuje się jego rozwijaniem. Licencje Creative Commons to gotowe rozwiązania prawne, z których można skorzystać od razu bez żadnego przygotowania prawniczego. Skorzystanie z licencji przez twórcę polega na oznaczeniu nią swojego utworu. Powoduje to udzielenie każdemu zezwolenia na korzystanie z tego utworu w zakresie określonym w licencji.
 </p>
 <p><a class="content-link" name="domena_publiczna"><strong>domena publiczna</strong></a><br/> 
