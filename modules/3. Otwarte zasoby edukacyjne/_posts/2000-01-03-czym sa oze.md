@@ -13,11 +13,11 @@ Czym są otwarte zasoby edukacyjne
   <p>O otwartości zasobów decyduje to, w jaki sposób możemy z nich skorzystać. Tak otwartość materiałów rozumiał <a class="content-link" href="https://en.wikipedia.org/wiki/David_A._Wiley"> David Wiley</a>, autor zasady 5R, która mówi, że zasób jest otwarty kiedy każdy ma prawo do:</p>
   <p>
   <ul>
-<li class="bullet">Reuse - ponownego wykorzystania zasobu w dowolny sposób,</li>
-<li class="bullet">Revise - adaptacji, dostosowania i modyfikacji, np. przetłumaczenia zasobu,</li>
-<li class="bullet">Remix - łączenia oryginalnych treści lub ich modyfikacji z innymi OZE w celu stworzenia nowej jakości,</li>
-<li class="bullet">Redistribute - rozpowszechniania kopii oryginału lub zmodyfikowanej, zremiksowanej treści i dzielenia się nimi (np. opublikowanie kopii zasobu w sieci do dowolnego pobierania przez innych),</li>
-<li class="bullet">Retain - tworzenie własnych zasobów i zapewnienie ich obecności w sieci.</li>
+<li class="bullet"><strong>Reuse</strong> - ponownego wykorzystania zasobu w dowolny sposób,</li>
+<li class="bullet"><strong>Revise</strong> - adaptacji, dostosowania i modyfikacji, np. przetłumaczenia zasobu,</li>
+<li class="bullet"><strong>Remix</strong> - łączenia oryginalnych treści lub ich modyfikacji z innymi OZE w celu stworzenia nowej jakości,</li>
+<li class="bullet"><strong>Redistribute</strong> - rozpowszechniania kopii oryginału lub zmodyfikowanej, zremiksowanej treści i dzielenia się nimi (np. opublikowanie kopii zasobu w sieci do dowolnego pobierania przez innych),</li>
+<li class="bullet"><strong>Retain</strong> - tworzenie własnych zasobów i zapewnienie ich obecności w sieci.</li>
  </ul>
  Źródło: <a class="content-link" href="http://lumenlearning.com/about-oer/">The 5R Permissions of OER. Lumen Learning.</a> za: kurs <a class="content-link" href="http://www.exploerercourse.org/pl/"> Exploerer</a>. 
   </p>
