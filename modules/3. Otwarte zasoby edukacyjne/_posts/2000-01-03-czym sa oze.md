@@ -10,7 +10,7 @@ Czym są otwarte zasoby edukacyjne
 </div>
 
 <div class="screen-content">
-  <p>O otwartości zasobów decyduje to, w jaki sposób możemy z nich skorzystać. Tak otwartość materiałów rozumiał <a class="content-link" href="https://en.wikipedia.org/wiki/David_A._Wiley"> David Wiley </a>, autor zasady 5R, która mówi, że zasób jest otwarty kiedy każdy ma prawo do:</p>
+  <p>O otwartości zasobów decyduje to, w jaki sposób możemy z nich skorzystać. Tak otwartość materiałów rozumiał <a class="content-link" href="https://en.wikipedia.org/wiki/David_A._Wiley"> David Wiley</a>, autor zasady 5R, która mówi, że zasób jest otwarty kiedy każdy ma prawo do:</p>
   <p>
   <ul>
 <li class="bullet">Reuse - ponownego wykorzystania zasobu w dowolny sposób,</li>
