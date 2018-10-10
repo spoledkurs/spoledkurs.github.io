@@ -30,6 +30,7 @@ Więcej na ten temat znajdziecie w materiałach przygotowanych przez Davida Sypn
 <p>
 Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi zrealizować podstawę programową, wypełniać polecenia przełożonych oraz reagować na oczekiwania kolegów i koleżanek, z drugiej strony powinna liczyć się ze zdaniem rodziców i wizją edukacji ich dziecka. W takich okolicznościach łatwo jest zgubić perspektywę i zapomnieć o tym, kto jest najważniejszy w procesie dydaktycznym i dla kogo opracowujemy materiały. Nie są to bowiem inni nauczyciele, dyrektorzy, ani rodzice, ale uczniowie i uczennice. Z myślą o nich przygotowaliśmy listę zaleceń, które pomogą stworzyć ciekawą lekcję, projekt lub zadanie. Zachęcamy, aby na każdym etapie projektowania zaprosić do współpracy uczniów i uczennice. Wówczas poczują się oni jeszcze silniej związani ze wspólnym przedsięwzięciem.   
 </p> 
+&nbsp;
 <div class="row">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/1.png" />          
