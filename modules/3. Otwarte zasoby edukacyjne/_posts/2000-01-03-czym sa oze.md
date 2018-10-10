@@ -34,3 +34,11 @@ Chcesz dowiedzieć się więcej o otwartych zasobach edukacyjnych? Polecamy <a c
 </p>
 
 </div> 
+
+<div class="row">
+<div class="col-md-4 col-md-offset-4 col-xs-12>
+  <div class="oze-map-button">
+    Mapa OZE                             
+  </div>                           
+</div>            
+</div>  
