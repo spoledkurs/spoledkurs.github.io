@@ -18,7 +18,7 @@ title: "Projektowanie"
   Projektując materiał, pomyśl o doświadczeniu Twoich uczennic, uczniów i innych nauczycielek i nauczycieli, którzy będą z tego materiału korzystać.<br/>
 Więcej na ten temat znajdziecie w infografice oraz w nagraniu webinarium z Davidem Sypniewskim, specjalistą UX (<i>user experience</i>).
   </p>
-  
+  &nbsp;
   <p>
   <div class="row">
   <div class="col-md-12 col-xs-12">
