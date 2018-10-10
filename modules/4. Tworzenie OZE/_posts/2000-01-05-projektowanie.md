@@ -41,6 +41,14 @@ Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi
   </div>             
 </div>
     
-    
+<div class="row">
+  <div class="col-md-2">
+   <img src="{{ site.baseurl }}/img/2.png" />          
+  </div>   
+  <div class="col-md-10">
+    <strong>2. Od problemu do rozwiązania</strong><br/>
+    Szczególnie trudne zadanie matematyczne, z którym nie radzą sobie uczniowie? Niezagospodarowana przestrzeń w szkole? Przemoc w świecie wirtualnym? Najlepsze tematy podpowiada życie. Ważne, żeby wybrać taki temat, który będzie dotyczył realnych problemów uczniów i uczennic. Nie powinien on być zbyt ogólny, ani wymyślony przez nauczyciela odgórnie. 
+  </div>             
+</div>    
     
 </div> 
