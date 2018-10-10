@@ -6,7 +6,7 @@ title: "Ochrona wizerunku"
 ---
 
 <div class="text-center screen-title">
-Ochrona wizerunku
+&bdquo;Ochrona wizerunku&rdquo;
 </div>
 
 <div class="screen-content">
