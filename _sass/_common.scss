@@ -547,16 +547,19 @@ p.source {
 }
 
 .oze-map-button {
-	font-weight: 700;
-	font-size: 17px !important;
 	background-color: #559fbc;
-	text-align: center;
 	height: 100px;
 }
 
 a.oze-map-link {
 	color: #000000;
 	text-decoration: none;
+}
+
+p.oze-map {
+	font-weight: 700;
+	font-size: 17px;
+	text-align: center;
 }
 
 .about-project {
