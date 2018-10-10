@@ -1,0 +1,25 @@
+---
+layout: "course_page"
+
+title: "Bądź autentyczny"
+
+---
+
+<div class="text-center screen-title">
+Bądź autentyczny
+</div>
+
+<div class="screen-content">
+  <p>
+  Nadszedł czas, aby zabrać się do konkretnej pracy nad własnym otwartym zasobem. W poprzednich modułach poznałaś/eś podstawy ideologiczne i korzenie, z których idea otwartości w edukacji się wywodzi. Dowiedziałeś/aś się również, jakie mechanizmy prawne wspierają otwartość w edukacji. W tej części powiemy więcej o tym, jak rozpocząć pracę i planowanie działań, na co warto zwrócić uwagę i gdzie szukać wsparcia. 
+  </p>
+  
+  <p>
+  Zabierając się do pracy, postaraj się od razu myśleć, co sprawi, że będzie ona przyjemniejsza. Dobrze dobrany temat? Ciekawa, nowa metoda pracy? Przyjaciele lub grupa, z którą będę pracować? Najpewniej Twoi uczniowie i uczennice zaakceptują to, co robisz pod warunkiem, że będzie to autentyczne, prawdziwie Twoje, a najlepiej jeszcze intrygujące lub inspirujące. Zmiany zacznij od małego kroku, od zadania ciekawego pytania na początek lekcji, od nietypowego ćwiczenia lub powitania. Otwartość to również Twoja postawa. I oczywiście podziel się pomysłami i efektami z innymi nauczyciel(k)ami. 
+  </p>
+  
+  <p>
+  
+  </p>
+
+</div> 
