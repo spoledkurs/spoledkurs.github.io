@@ -40,7 +40,7 @@ Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi
     Mural? Gra terenowa? Komiks? To świetne narzędzia, ale trzeba być ostrożnym, żeby nie dać się uwieść ciekawej formie, która przysłoni treść. Nie każdy temat pasuje bowiem do dowolnej formy. Należy bardzo uważnie wybierać sposób realizacji tematu.
   </div>             
 </div>
-    
+   &nbsp;  
 <div class="row">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/2.png" />          
@@ -50,7 +50,7 @@ Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi
     Szczególnie trudne zadanie matematyczne, z którym nie radzą sobie uczniowie? Niezagospodarowana przestrzeń w szkole? Przemoc w świecie wirtualnym? Najlepsze tematy podpowiada życie. Ważne, żeby wybrać taki temat, który będzie dotyczył realnych problemów uczniów i uczennic. Nie powinien on być zbyt ogólny, ani wymyślony przez nauczyciela odgórnie. 
   </div>             
 </div>    
-    
+   &nbsp;  
 <div class="row">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/3.png" />          
@@ -60,7 +60,7 @@ Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi
     Na gustach młodzieży zna się najlepiej sama młodzież. Nie ma nic niestosownego w zadawaniu pytań swoim wychowankom, którzy szybko docenią Twoją otwartość i chęć do uczenia się. Dzięki temu Twoje materiały będą lepsze, a relacja z uczniami bardziej partnerska i angażująca. 
   </div>             
 </div>    
-
+ &nbsp;
 <div class="row">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/4.png" />          
@@ -70,7 +70,7 @@ Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi
     Świat jest pełen twórczych ludzi, którzy zrobili świetne projekty. Warto się od nich uczyć i czerpać energię z ich działań. Takich pasjonatów możesz spotkać osobiście na konferencjach tematycznych, ale także w sieci - na forach internetowych i w sieci SpołEdu. 
   </div>             
 </div>    
-
+ &nbsp;
 <div class="row">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/5.png" />          
@@ -80,7 +80,7 @@ Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi
     Kosztowny projekt warto zacząć od zrobienia wersji testowej. Nie tylko w przypadku budowy edukacyjnego robota, który ma pochłonąć połowę rocznego budżetu szkoły, ale również w projektach, w których czujesz się pewnie, warto zrobić próbną wersję Twojego pomysłu (np. z papieru). Dzięki temu można sprawdzić, czy wszystkie założenia projektu są dobrze przemyślane i łatwiej skorygować ewentualne błędy. 
   </div>             
 </div>    
-
+ &nbsp;
 <div class="row">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/6.png" />          
@@ -91,7 +91,7 @@ Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi
   </div>             
 </div>    
 
-
+ &nbsp;
 <div class="row">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/7.png" />          
