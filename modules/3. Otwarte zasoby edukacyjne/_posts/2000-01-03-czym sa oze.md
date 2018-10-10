@@ -37,7 +37,7 @@ Chcesz dowiedzieć się więcej o otwartych zasobach edukacyjnych? Polecamy <a c
 
 <div class="row">
 <div class="col-md-4 col-md-offset-4 col-xs-12">
- <a href="https://men.gov.pl/wp-content/uploads/2013/07/mapa_oze.pdf">
+ <a class="oze-map-link" href="https://men.gov.pl/wp-content/uploads/2013/07/mapa_oze.pdf">
    <div class="oze-map-button">
     Mapa OZE                             
   </div>  
