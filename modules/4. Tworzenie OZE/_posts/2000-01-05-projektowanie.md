@@ -6,7 +6,7 @@ title: "Projektowanie"
 ---
 
 <div class="text-center screen-title">
-<i>User centered design</i>, czyli projektowanie zorientowane na użytkownika
+<i>User centered design</i>,<br/> czyli projektowanie zorientowane na użytkownika
 </div>
 
 <div class="screen-content">
