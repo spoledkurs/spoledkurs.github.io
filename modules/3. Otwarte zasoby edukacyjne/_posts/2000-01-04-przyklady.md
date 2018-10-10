@@ -35,3 +35,5 @@ Oraz strony prowadzone przez organizacje:
 Jeśli korzystasz z jakiś otwartych zasobów edukacyjnych, podziel się tym na forum kursu!
 </p>
 </div> 
+
+{% include disqus.html %}
