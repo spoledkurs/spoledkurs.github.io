@@ -21,7 +21,7 @@ Narzędzia
   <p>
   Zachęcamy do samodzielnego tworzenia filmów do wykorzystania na lekcji. Więcej na ten temat mówi Krzysztof Chojecki w webinarium:
   </p>
-  
+  &nbsp;
   <p>
   <div class="row">
   <div class="col-md-12 col-xs-12">
@@ -29,7 +29,7 @@ Narzędzia
    <iframe width="560" height="315" src="https://www.youtube.com/embed/B25th-d2pB8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div>
 </div>
   </p>
-  
+  &nbsp;
   <p>
   Świetną pomocą są programy do tworzenia grafik i infografik, takie jak <a class="content-link" target="_blank" href="https://www.canva.com/">Canva</a> czy <a class="content-link" target="_blank" href="https://piktochart.com/">Piktochart</a> lub interaktywnych plakatów na platformie Thingkink, jak <a class="content-link" target="_blank" href="https://www.thinglink.com/scene/1069880817368432642">ten</a>, stworzony przez nauczycielki SpołEd.
   </p>
