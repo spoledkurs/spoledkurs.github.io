@@ -17,7 +17,7 @@ Promocyjne drogi
   <p>
   <ol>
     <p>
-<strong><li class="number">mała droga/przyjacielska droga</strong> - to świetne rozwiązanie dla tych, którzy jeszcze nie są pewni, że ich prace są warte uwagi (a na pewno są) lub którzy jeszcze niepewnie podchodzą do portali społecznościowych. Roześlij swoje materiały znajomym nauczyciel(k)om. Po prostu wyślij mail do wszystkich, którzy mogą być choć odrobinę zainteresowani Twoim materiałem. Jeśli czujesz się na siłach, zachęć ich, żeby przysyłali ten materiał dalej (pamiętaj, aby umieścić do siebie kontakt w materiałach).</li>
+<strong><li class="number">mała droga/przyjacielska droga</strong></li> - to świetne rozwiązanie dla tych, którzy jeszcze nie są pewni, że ich prace są warte uwagi (a na pewno są) lub którzy jeszcze niepewnie podchodzą do portali społecznościowych. Roześlij swoje materiały znajomym nauczyciel(k)om. Po prostu wyślij mail do wszystkich, którzy mogą być choć odrobinę zainteresowani Twoim materiałem. Jeśli czujesz się na siłach, zachęć ich, żeby przysyłali ten materiał dalej (pamiętaj, aby umieścić do siebie kontakt w materiałach).
       </p>
     <p>
 <strong><li class="number">droga dokumentów w chmurze</strong> - jeśli masz już grupę nauczycielek i nauczycieli, którzy są zainteresowani Twoimi materiałami, a do tego chcieliby również dorzucić własne, proponujemy skorzystać np. Google Docs, gdzie można umieścić i udostępnić pliki w różnym formacie. Można też samemu zdecydować, czy inni będą mogli modyfikować prace, czy tylko oglądać.</li>
