@@ -9,10 +9,12 @@ $('.module-name').children().click(function(){
     $(this).children('.sidebar1').slideToggle('slow');     
  }).children('.sidebar1').click(function (event) {
     event.stopPropagation(); 
-    $("i", this).toggleClass("fa-angle-down fa-angle-up");
+    
    
-  
 });
 
-
+$('.module-name').click(function() {
+    $('.sidebar1').toggle('1000');
+    $("i", this).toggleClass("fa-angle-down fa-angle-up");
+});
 
