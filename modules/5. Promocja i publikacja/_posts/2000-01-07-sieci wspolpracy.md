@@ -15,14 +15,15 @@ Sieci współpracy
 Poniżej znajdziesz trochę wskazówek z Ośrodka Rozwoju Edukacji. 
 
   </p>
-  
+  <ul>
   <p>
- <a class="content-link" target="_blank" href="https://doskonaleniewsieci.pl/KategoriaProblemowPodglad.aspx?id=68&backUrl=%2fKategorieProblemowPubliczne.aspx">https://doskonaleniewsieci.pl/KategoriaProblemowPodglad.aspx?id=68&backUrl=%2fKategorieProblemowPubliczne.aspx</a>
+<li class="bullet"> <a class="content-link" target="_blank" href="https://doskonaleniewsieci.pl/KategoriaProblemowPodglad.aspx?id=68&backUrl=%2fKategorieProblemowPubliczne.aspx">https://doskonaleniewsieci.pl/KategoriaProblemowPodglad.aspx?id=68&backUrl=%2fKategorieProblemowPubliczne.aspx</a></li>
   </p>
   
   <p>
-  <a class="content-link" target="_blank" href="https://doskonaleniewsieci.pl/KategoriaProblemowPodglad.aspx?id=68&backUrl=%2fKategorieProblemowPubliczne.aspx">https://doskonaleniewsieci.pl/KategoriaProblemowPodglad.aspx?id=68&backUrl=%2fKategorieProblemowPubliczne.aspx</a>
+  <li class="bullet"><a class="content-link" target="_blank" href="https://doskonaleniewsieci.pl/KategoriaProblemowPodglad.aspx?id=68&backUrl=%2fKategorieProblemowPubliczne.aspx">https://doskonaleniewsieci.pl/KategoriaProblemowPodglad.aspx?id=68&backUrl=%2fKategorieProblemowPubliczne.aspx</a></li>
   </p>
+</ul>
 
 <p>
 Jeśli nie wiesz, jak się zabrać za poszukiwanie sojuszników lub po prostu wolałabyś/wolałbyś dołączyć do istniejącej grupy, napisz do nas na adres <br/> spoled@centrumcyfrowe.pl
