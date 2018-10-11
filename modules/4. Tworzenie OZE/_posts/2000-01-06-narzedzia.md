@@ -31,7 +31,7 @@ Narzędzia
   </p>
   &nbsp;
   <p>
-  Świetną pomocą są programy do tworzenia <strong>grafik i infografik</strong>, takie jak <a class="content-link" target="_blank" href="https://www.canva.com/">Canva</a> czy <a class="content-link" target="_blank" href="https://piktochart.com/">Piktochart</a> lub interaktywnych plakatów na platformie Thingkink, jak <a class="content-link" target="_blank" href="https://www.thinglink.com/scene/1069880817368432642">ten</a>, stworzony przez nauczycielki SpołEd.
+  Świetną pomocą są programy do tworzenia <strong>grafik i infografik</strong>, takie jak <a class="content-link" target="_blank" href="https://www.canva.com/">Canva</a> czy <a class="content-link" target="_blank" href="https://piktochart.com/">Piktochart</a> lub <a class="content-link" target="_blank" href="https://www.thinglink.com/scene/1069880817368432642">interaktywnych plakatów na platformie Thinglkink, jak ten</a>, stworzony przez nauczycielki SpołEd.
   </p>
   
   <p>
