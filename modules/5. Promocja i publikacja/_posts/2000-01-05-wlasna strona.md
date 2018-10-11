@@ -22,7 +22,7 @@ Obydwie są dostępne po polsku i łatwe w użyciu, a w internecie znajdziemy tu
   <p>
   <ul>
 <li class="bullet"> <a class="content-link" target="_blank" href="https://www.blogger.com">blogger</a> - daje możliwość założenia własnej domeny (adresu internetowego), jest darmowy i połączony z kontem Google.</li>
-<li class="bullet"><a class="content-link" target="_blank" href="https://medium.com/">medium,/a> - miejsce, w którym można wrzucać własne teksty, działający na zasadzie portalu społecznościowego, co oznacza, że teksty są przypisane do autora, a nie do strony internetowej (nie dostaje się własnej domeny), więc adres do tekstu, czy materiału może nie być taki, jakbyśmy chcieli. Jest to ciekawa opcja, również ze względu na nowoczesny design strony i jej przeznaczenie.</li>
+<li class="bullet"><a class="content-link" target="_blank" href="https://medium.com/">medium</a> - miejsce, w którym można wrzucać własne teksty, działający na zasadzie portalu społecznościowego, co oznacza, że teksty są przypisane do autora, a nie do strony internetowej (nie dostaje się własnej domeny), więc adres do tekstu, czy materiału może nie być taki, jakbyśmy chcieli. Jest to ciekawa opcja, również ze względu na nowoczesny design strony i jej przeznaczenie.</li>
  </ul>
   </p>
 
