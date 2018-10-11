@@ -7,7 +7,7 @@ $('.sidebar1 li').attr('id', function(i) {
 
 $('.module-name').children().click(function(){
     $(this).children('.sidebar1').slideToggle('slow');
-   $("i", this).toggleClass("fa-angle-down fa-angle-up");
+   $("i", this).toggleClass("fa-angle-up");
  }).children('.sidebar1').click(function (event) {
     event.stopPropagation(); 
        
