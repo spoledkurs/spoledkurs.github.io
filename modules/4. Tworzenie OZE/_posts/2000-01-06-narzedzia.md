@@ -19,7 +19,7 @@ Narzędzia
   </p>
   
   <p>
-  Zachęcamy do samodzielnego tworzenia filmów do wykorzystania na lekcji. Więcej na ten temat mówi Krzysztof Chojecki w webinarium:
+  Zachęcamy do samodzielnego tworzenia <strong>filmów</strong> do wykorzystania na lekcji. Więcej na ten temat mówi Krzysztof Chojecki w webinarium:
   </p>
   &nbsp;
   <p>
@@ -31,11 +31,11 @@ Narzędzia
   </p>
   &nbsp;
   <p>
-  Świetną pomocą są programy do tworzenia grafik i infografik, takie jak <a class="content-link" target="_blank" href="https://www.canva.com/">Canva</a> czy <a class="content-link" target="_blank" href="https://piktochart.com/">Piktochart</a> lub interaktywnych plakatów na platformie Thingkink, jak <a class="content-link" target="_blank" href="https://www.thinglink.com/scene/1069880817368432642">ten</a>, stworzony przez nauczycielki SpołEd.
+  Świetną pomocą są programy do tworzenia <strong>grafik i infografik</strong>, takie jak <a class="content-link" target="_blank" href="https://www.canva.com/">Canva</a> czy <a class="content-link" target="_blank" href="https://piktochart.com/">Piktochart</a> lub interaktywnych plakatów na platformie Thingkink, jak <a class="content-link" target="_blank" href="https://www.thinglink.com/scene/1069880817368432642">ten</a>, stworzony przez nauczycielki SpołEd.
   </p>
   
   <p>
-  Nie zapominajmy też o narzędziach do tworzenia quizów i fiszek, które są ostatnio nie tylko popularne, ale również łatwe w użyciu i przydatne. Nasze propozycje to: <a class="content-link" target="_blank" href="https://kahoot.it/">Kahoot</a> (quizy) lub <a class="content-link" target="_blank" href="https://quizlet.com/pl">Quizlet</a> (moduły edukacyjne z quizami).
+  Nie zapominajmy też o narzędziach do tworzenia <strong>quizów i fiszek</strong>, które są ostatnio nie tylko popularne, ale również łatwe w użyciu i przydatne. Nasze propozycje to: <a class="content-link" target="_blank" href="https://kahoot.it/">Kahoot</a> (quizy) lub <a class="content-link" target="_blank" href="https://quizlet.com/pl">Quizlet</a> (moduły edukacyjne z quizami).
 
   </p>
   
