@@ -21,10 +21,10 @@ Nasz kurs będzie się rozwijać i zmieniać razem z rozwojem Spółdzielni, wi�
   </p>
   
   <p>
-  Jeśli chcesz pozostać z nami w kontakcie, masz pomysł na projekt lub ochotę razem coś stworzyć - napisz do nas: <br/> spoled@centrmcyfrowe.pl
+  Jeśli chcesz pozostać z nami w kontakcie, masz pomysł na projekt lub ochotę razem coś stworzyć - napisz do nas: <br/> <strong>spoled@centrmcyfrowe.pl</strong>
   </p>
 <p>
-Jeśli masz jakieś pytania dotyczące kursu, pisz na adres: <br/> aczetwertynska@centrumcyfrowe.pl
+Jeśli masz jakieś pytania dotyczące kursu, pisz na adres: <br/> <strong>aczetwertynska@centrumcyfrowe.pl</strong>
 </p>
 
 </div> 
