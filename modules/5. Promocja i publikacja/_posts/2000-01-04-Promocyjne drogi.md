@@ -24,6 +24,8 @@ Promocyjne drogi
       </p>
     <p>
 <li class="number"><strong>droga bloga</strong> - załóż swój własny blog lub stronę internetową (propozycje łatwych rozwiązań znajdziesz na następnym ekranie). Zamieść na nim swoje zasoby oznaczone wybraną przez Ciebie wolną licencją. Możesz też opisywać swoje doświadczenia z wykorzystania danych materiałów - co się udało, co się podobało uczniom itp.</li>
+      </p>
+    <p>
 <li class="number"><strong>droga mediów społecznościowych</strong> - założyłaś/łeś już bloga, teraz możesz go promować. Zrób parę zdjęć, wrzuć na Instagram, napisz 3 słowa na Facebooku.</li>
       </p>
     <p>
@@ -31,6 +33,8 @@ Promocyjne drogi
       </p>
     <p>
 <li class="number"><strong>droga sieci</strong> - nadal za mało? Odrobinę sformalizuj swoje działania, zamiast jednego maila, stwórz własny newsletter, do którego będzie się można zapisać na Twoim blogu, zamiast rozproszonej grupy przyjaciół zorganizuj sieć nauczycielską, która spotyka się regularnie (np. raz w miesiącu online przez Skype) i wymienia doświadczeniami.</li>
+      </p>
+    <p>
 <li class="number"><strong>droga na bogato</strong> - wiesz, że zrobiłaś/łeś coś fajnego i chcesz, żeby świat o tym usłyszał. Przechodzisz przez wszystkie powyższe drogi, lecz nie kończysz tam, gdzie kończy się internet, lecz wychodzisz ze swoimi działaniami w świat rzeczywisty. Rozejrzyj się za konferencjami edukacyjnymi, spotkaniami, warsztatami w najbliższym ośrodku doskonalenia nauczycieli, porozmawiaj z pracującym tam metodykiem i zaproponuj współpracę.</li>
       </p>
 </ol>
