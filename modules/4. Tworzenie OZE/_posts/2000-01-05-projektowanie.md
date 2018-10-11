@@ -16,7 +16,7 @@ title: "Projektowanie"
   
   <p>
   Projektując materiał, pomyśl o doświadczeniu Twoich uczennic, uczniów i innych nauczycielek i nauczycieli, którzy będą z tego materiału korzystać.<br/>
-Więcej na ten temat znajdziecie w materiałach przygotowanych przez Davida Sypniewskiego, Davidem Sypniewskim, specjalistę UX (<i>user experience</i>).
+Więcej na ten temat znajdziecie w materiałach przygotowanych przez Davida Sypniewskiego, specjalistę UX (<i>user experience</i>).
   </p>
   &nbsp;
   <p>
