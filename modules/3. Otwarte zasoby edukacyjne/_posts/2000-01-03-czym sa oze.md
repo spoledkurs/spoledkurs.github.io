@@ -27,7 +27,7 @@ Czym są otwarte zasoby edukacyjne
 <p>
 Upraszczając, otwarty zasób to taki, który możemy pobrać, skopiować, zmienić według swoich potrzeb i umieścić ponownie w internecie, tak aby kolejne osoby mogły skorzystać z naszej pracy (która powstała z wykorzystaniem pobranego materiału).
 </p>
-
+&nbsp;
 <p>
   <strong>Chcesz dowiedzieć się więcej o otwartych zasobach edukacyjnych?<br/> Polecamy:</strong>
  </p> 
@@ -37,10 +37,10 @@ Upraszczając, otwarty zasób to taki, który możemy pobrać, skopiować, zmien
  <a href="http://koed.org.pl/wp-content/uploads/2014/05/OER_handbook_v5_online1.pdf" target="_blank"><img src="{{ site.baseurl }}/img/przewodnik_oze.png"></a>
 </div>
 <div class="col-md-4 col-xs-12">
-  <a href="https://men.gov.pl/wp-content/uploads/2013/07/mapa_oze.pdf"><img src="{{ site.baseurl }}/img/mapa_oze.png"></a>
+ <a href="http://prawokultury.pl/publikacje/wolne-licencje/"><img src="{{ site.baseurl }}/img/prawokultury_2.png"></a> 
 </div> 
 
 <div class="col-md-4 col-xs-12">
- 
+ <a href="https://men.gov.pl/wp-content/uploads/2013/07/mapa_oze.pdf"><img src="{{ site.baseurl }}/img/mapa_oze.png"></a>
 </div> 
 </div>  
