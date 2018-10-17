@@ -13,7 +13,7 @@ W tym module dowiesz się...
 </div>
 
 <div class="screen-content">
-Ten moduł jest poświęcony metodologii i narzędziom edukacyjnym, które mogą się przydać przy tworzeniu OZE (otwartych zasobów edukacyjnych). Znajdziesz tutaj inspirację i poznasz ludzi myślących o edukacji w otwarty sposób. Opowiemy Ci również o najważniejszych dla nas wartościach, które znajdziesz też w <a class="content-link" href="#">manifeście Spółdzielni Otwartej Edukacji</a>. Zobacz, co nas inspiruje do działania i daj się również do niego namówić!
+Ten moduł jest poświęcony metodologii i narzędziom edukacyjnym, które mogą się przydać przy tworzeniu OZE (otwartych zasobów edukacyjnych). Znajdziesz tutaj inspirację i poznasz ludzi myślących o edukacji w otwarty sposób. Opowiemy Ci również o najważniejszych dla nas wartościach, które znajdziesz też w <a class="content-link" target="_blank" href="{{ site.baseurl }}/img/manifest.jpg">manifeście Spółdzielni Otwartej Edukacji</a>. Zobacz, co nas inspiruje do działania i daj się również do niego namówić!
 
 &nbsp;
 
