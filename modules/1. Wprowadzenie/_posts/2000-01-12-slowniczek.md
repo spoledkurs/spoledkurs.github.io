@@ -64,6 +64,6 @@ licencje, które odpowiadają definicji Wolnych Dóbr Kultury i respektują praw
 </p>
 
 <p class="source">
-  Źródło: <a href="http://edukacjamedialna.edu.pl/lekcje/slowniczek/">http://edukacjamedialna.edu.pl/lekcje/slowniczek/</a>
+  Źródło: <a class="content-link" target="_blank" href="http://edukacjamedialna.edu.pl/lekcje/slowniczek/">http://edukacjamedialna.edu.pl/lekcje/slowniczek/</a>
  </p> 
 </div> 
