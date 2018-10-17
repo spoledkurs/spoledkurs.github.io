@@ -29,7 +29,7 @@ Upraszczając, otwarty zasób to taki, który możemy pobrać, skopiować, zmien
 </p>
 
 <p>
-  <strong>Chcesz dowiedzieć się więcej o otwartych zasobach edukacyjnych? Polecamy:</strong>
+  <strong>Chcesz dowiedzieć się więcej o otwartych zasobach edukacyjnych?<br/> Polecamy:</strong>
  </p> 
  
 <div class="row">
