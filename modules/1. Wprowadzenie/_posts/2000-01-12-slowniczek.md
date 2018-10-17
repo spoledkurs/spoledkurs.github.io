@@ -63,4 +63,7 @@ informacja o autorze, autorce utworu, warunek konieczny przy wykorzystaniu czyje
 licencje, które odpowiadają definicji Wolnych Dóbr Kultury i respektują prawa użytkowników, czyli zezwalają na korzystanie, rozpowszechnianie, modyfikowanie oraz rozpowszechnianie modyfikacji utworu.
 </p>
 
+<p class="source">
+  Źródło: <a href="http://edukacjamedialna.edu.pl/lekcje/slowniczek/">http://edukacjamedialna.edu.pl/lekcje/slowniczek/</a>
+ </p> 
 </div> 
