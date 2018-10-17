@@ -181,8 +181,12 @@ video {
 	font-size: 26px;
 	/*margin-left: 180px;
 	margin-right: 180px; */
-	padding-left: 150px;
-	padding-right: 150px;
+	/*padding-left: 150px;
+	padding-right: 150px;*/
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: 40px;
+	margin-right: 40px;
 
 }
 
@@ -199,6 +203,15 @@ video {
 	
 }
 
+
+@media (max-width: 375px) {
+	
+	#intro {
+	   
+	   margin-left: 20px !important;
+	   margin-right: 20px !important; 
+	}
+}	
 
 .screen-title {
 	font-size: 40px;
