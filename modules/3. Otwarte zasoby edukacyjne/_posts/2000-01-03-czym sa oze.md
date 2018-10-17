@@ -29,18 +29,22 @@ Upraszczając, otwarty zasób to taki, który możemy pobrać, skopiować, zmien
 </p>
 
 <p>
-Chcesz dowiedzieć się więcej o otwartych zasobach edukacyjnych? Polecamy <a class="content-link" href="https://koed.org.pl/pl/blog/2014/05/07/przewodnik-po-otwartych-zasobach-edukacyjnych-wersja-5/
+  <strong>Chcesz dowiedzieć się więcej o otwartych zasobach edukacyjnych? Polecamy:</strong>
+ </p> 
+ 
+  <a class="content-link" href="http://koed.org.pl/wp-content/uploads/2014/05/OER_handbook_v5_online1.pdf
 "><i>Przewodnik po otwartych zasobach edukacyjnych</i></a> Koalicji Otwartej Edukacji.
-</p>
-
-</div> 
+ 
 
 <div class="row">
-<div class="col-md-4 col-md-offset-4 col-xs-12">
- <a class="oze-map-link" href="https://men.gov.pl/wp-content/uploads/2013/07/mapa_oze.pdf" target="_blank">
-   <div class="oze-map-button">
-     <p class="oze-map">Mapa otwartych zasobów edukacyjnych</p>                             
-  </div>  
-  </a> 
-</div>            
+<div class="col-md-4 col-xs-12">
+ <a href="http://koed.org.pl/wp-content/uploads/2014/05/OER_handbook_v5_online1.pdf" target="_blank"><img src="{{ site.baseurl }}/img/przewodnik_oze.png"></a>
+</div>
+<div class="col-md-4 col-xs-12">
+ 
+</div> 
+
+<div class="col-md-4 col-xs-12">
+ 
+</div> 
 </div>  
