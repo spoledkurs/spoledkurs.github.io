@@ -32,7 +32,7 @@ Oraz strony prowadzone przez organizacje:
 </p>
 
 <p>
-Jeśli korzystasz z jakiś otwartych zasobów edukacyjnych, podziel się tym na forum kursu!
+Jeśli korzystasz z jakiś otwartych zasobów edukacyjnych, napisz o tym w komentarzu!
 </p>
 </div> 
 
