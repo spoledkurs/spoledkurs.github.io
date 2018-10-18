@@ -1,11 +1,11 @@
 ---
 layout: "course_page"
 
-title: "Współpraca w edukacji"
+title: "Zmiany w szkole"
 ---
 
 <div class="text-center screen-title">
-Współpraca w edukacji
+Zmiany w szkole
 </div>
 
 <div class="screen-content">
