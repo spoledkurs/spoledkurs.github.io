@@ -32,6 +32,15 @@ Oraz strony prowadzone przez organizacje:
 </p>
 
 <p>
+  Więcej o otwartych zasobach edukacyjnych można dowiedzieć się od mentora Spółdzielni Otwartej Edukacji Kamila Śliwowskiego: </p>
+  
+  <div class="row">
+  <div class="col-md-12 col-xs-12">
+   <div class="embed-responsive embed-responsive-16by9"> 
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/MjmwlCcIpHg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div>
+</div>
+
+<p>
 Jeśli korzystasz z jakiś otwartych zasobów edukacyjnych, napisz o tym w komentarzu!
 </p>
 </div> 
