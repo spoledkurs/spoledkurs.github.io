@@ -1,7 +1,7 @@
 # basic configuration
 baseurl: /spoled_test
 markdown: kramdown
-permalink: /:title/
+permalink: /:categories/:title/
 
 # Change this tracking code with your own tracking code
 ga_tracking_code: UA-5757664-19
