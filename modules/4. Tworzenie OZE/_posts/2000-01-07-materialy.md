@@ -28,6 +28,8 @@ Gdzie szukać materiałów do naszych prac
 Szukaj, ściągaj, wykorzystuj w swojej pracy. <br/>  
 Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
 </p>
+&nbsp;  
+
 
 <div class="row">
   <div class="col-md-2">
@@ -44,64 +46,91 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
    &nbsp;  
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/2.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona2.png" />          
   </div>   
   <div class="col-md-10">
-    <strong>2. Od problemu do rozwiązania</strong><br/>
-    Szczególnie trudne zadanie matematyczne, z którym nie radzą sobie uczniowie? Niezagospodarowana przestrzeń w szkole? Przemoc w świecie wirtualnym? Najlepsze tematy podpowiada życie. Ważne, żeby wybrać taki temat, który będzie dotyczył realnych problemów uczniów i uczennic. Nie powinien on być zbyt ogólny, ani wymyślony przez nauczyciela odgórnie. 
+    <strong>Repozytoria:</strong><br/>
+    <a class="content-link" target="_blank" href="https://www.europeana.eu">Europeana</a> (punkt dostępu do cyfrowych zbiorów instytucji kultury z całej Europy)<br/>
+	 <a class="content-link" target="_blank" href="https://polona.pl/">Polona</a> (biblioteka cyfrowa, udostępniająca zdigitalizowane zbiory m.in. Biblioteki Narodowej)
   </div>             
 </div>    
    &nbsp;  
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/3.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona3.png" />          
   </div>   
   <div class="col-md-10">
-    <strong>3. Nie zgaduj, pytaj!</strong><br/>
-    Na gustach młodzieży zna się najlepiej sama młodzież. Nie ma nic niestosownego w zadawaniu pytań swoim wychowankom, którzy szybko docenią Twoją otwartość i chęć do uczenia się. Dzięki temu Twoje materiały będą lepsze, a relacja z uczniami bardziej partnerska i angażująca. 
+    <strong>Wideo:</strong><br/>
+	 <a class="content-link" target="_blank" href="https://vimeo.com/">Vimeo</a><br/>
+	 <a class="content-link" target="_blank" href="https://polona.pl/">YouTube</a> (po zmianie ustawień wyszukiwania)
   </div>             
 </div>    
  &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/4.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona4.png" />          
   </div>   
   <div class="col-md-10">
-    <strong>4. Inspiruj się</strong><br/>
-    Świat jest pełen twórczych ludzi, którzy zrobili świetne projekty. Warto się od nich uczyć i czerpać energię z ich działań. Takich pasjonatów możesz spotkać osobiście na konferencjach tematycznych, ale także w sieci - na forach internetowych i w sieci SpołEdu. 
+    <strong>Książki:</strong><br/>
+    <a class="content-link" target="_blank" href="https://wolnelektury.pl/">Wolne Lektury</a><br/>
+	 <a class="content-link" target="_blank" href="http://www.gutenberg.org/">Projekt Gutenberg</a>
   </div>             
 </div>    
  &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/5.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona5.png" />          
   </div>   
   <div class="col-md-10">
-    <strong>5. Makietuj</strong><br/>
-    Kosztowny projekt warto zacząć od zrobienia wersji testowej. Nie tylko w przypadku budowy edukacyjnego robota, który ma pochłonąć połowę rocznego budżetu szkoły, ale również w projektach, w których czujesz się pewnie, warto zrobić próbną wersję Twojego pomysłu (np. z papieru). Dzięki temu można sprawdzić, czy wszystkie założenia projektu są dobrze przemyślane i łatwiej skorygować ewentualne błędy. 
+    <strong>Zdjęcia:</strong><br/>
+    <a class="content-link" target="_blank" href="https://pixabay.com/">Pixabay</a><br/>
+	<a class="content-link" target="_blank" href="https://www.flickr.com/">Flickr</a><br/>
+	 <a class="content-link" target="_blank" href="https://commons.wikimedia.org/wiki/Main_Page">Wikimedia Commons</a>
   </div>             
 </div>    
  &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/6.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona6.png" />          
   </div>   
   <div class="col-md-10">
-    <strong>6. Testuj</strong><br/>
-    Zanim wypuścisz swój produkt w świat warto przetestować go na małej grupie. Pamiętaj, by przygotować scenariusz, a w trakcie testów pytać, ale nie podpowiadać. Warto także taki test sfilmować, żeby móc go spokojnie przeanalizować później.
+    <strong>Muzyka: </strong><br/>
+    <a class="content-link" target="_blank" href="https://www.jamendo.com/">Jamendo</a><br/>
+	 <a class="content-link" target="_blank" href="http://openmusicarchive.org/">Open Music Archive</a>
   </div>             
 </div>    
 
  &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/7.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona7.png" />          
   </div>   
   <div class="col-md-10">
-    <strong>7. Nie poddawaj się</strong><br/>
-    Trudności nie są porażką, problemy są częścią procesu. Coś nie działa? Sprawdź czy jest to  przyczyna techniczna, czy przyjęliście złe założenia, a może pomysł nie jest dopasowany do twojej grupy docelowej? Rozwiązanie problemu, nawet najmniejszego, daje duże poczucie satysfakcji i wzmacnia chęć jego realizacji. 
+    <strong>Wiedza:</strong><br/>
+     <a class="content-link" target="_blank" href="https://www.wikipedia.org/">Wikipedia</a><br/>
+	 <a class="content-link" target="_blank" href="https://www.epodreczniki.pl/begin/">e-podręczniki</a>
+</div>    
+ &nbsp;
+<div class="row">
+  <div class="col-md-2">
+   <img src="{{ site.baseurl }}/img/zasoby_ikona8.png" />          
+  </div>   
+  <div class="col-md-10">
+    <strong>Ilustracje i ikony: </strong><br/>
+    <a class="content-link" target="_blank" href="http://www.clker.com/">clker.com</a><br/>
+	 <a class="content-link" target="_blank" href="https://openclipart.org/">openclipart</a>
   </div>             
 </div>    
-
+ &nbsp;
+<div class="row">
+  <div class="col-md-2">
+   <img src="{{ site.baseurl }}/img/zasoby_ikona9.png" />          
+  </div>   
+  <div class="col-md-10">
+    <strong>Fonty: </strong><br/>
+     <a class="content-link" target="_blank" href="https://fontlibrary.org/">Open Font Library</a><br/>
+	 <a class="content-link" target="_blank" href="https://fonts.google.com/">Google Fonts</a>
+  </div>             
+</div>    
 
 </div> 
