@@ -35,6 +35,26 @@
 	<script type="text/javascript" src="{{ site.baseurl }}/js/modernizr-2.6.2.min.js"></script>
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:400,700,900&amp;subset=latin-ext">
 	<script src="https://use.fontawesome.com/1dd9338d9c.js"></script>
+	
+	
+
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.centrumcyfrowe.pl/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '24']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+
 
 </head>
 <body {% if page.itemtype %}itemscope itemtype="{{ page.itemtype }}"{% endif %}
