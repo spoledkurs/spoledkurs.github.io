@@ -14,7 +14,7 @@ Dostępność materiałów edukacyjnych
   <p>
   <strong>Co zrobić, żeby tekst był jak najbardziej dostępny?</strong>
   </p>
-  &nbsp;
+
   <p>
   <ol>
 <li class="number">Zadbaj o jego przejrzystość i logiczną strukturę.</li>
