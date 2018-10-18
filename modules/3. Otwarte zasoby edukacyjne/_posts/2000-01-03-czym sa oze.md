@@ -43,7 +43,7 @@ Upraszczając, otwarty zasób to taki, który możemy pobrać, skopiować, zmien
   <p>
     Stronę <a class="content-link" target="_blank" href="http://prawokultury.pl/publikacje/wolne-licencje/">prawokultury.pl</a>
     </p>
- <a href="http://prawokultury.pl/publikacje/wolne-licencje/"><img src="{{ site.baseurl }}/img/prawokultury.png"></a> 
+ <a href="http://prawokultury.pl/publikacje/wolne-licencje/"><img src="{{ site.baseurl }}/img/prawo_kultury_logo.png"></a> 
 </div> 
 
 <div class="col-md-4 col-xs-12">
