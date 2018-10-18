@@ -40,8 +40,9 @@ Oraz strony prowadzone przez organizacje:
    <iframe width="560" height="315" src="https://www.youtube.com/embed/MjmwlCcIpHg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div>
 </div>
 
+&nbsp;
 <p>
-Jeśli korzystasz z jakiś otwartych zasobów edukacyjnych, napisz o tym w komentarzu!
+<strong>Jeśli korzystasz z jakichś otwartych zasobów edukacyjnych, napisz o tym w komentarzu!</strong>
 </p>
 </div> 
 
