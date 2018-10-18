@@ -13,5 +13,5 @@ $('.module-name').children().click(function(){
        
 });
 
-
+$(".dropdown.active ul").show();
 
