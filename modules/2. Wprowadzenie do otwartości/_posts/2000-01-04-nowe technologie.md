@@ -19,5 +19,5 @@ Nowoczesne technologie w edukacji
 </p>
 
 
-<p>Jak jest z tą technologią i czy powinniśmy się nią zajmować? Zachęcamy do lektury tekstu Grzegorza Stunży dotyczącego nowoczesnych technologii w szkole i poznania ich pozytywnej strony. </p>
+<p>Jak jest z tą technologią i czy powinniśmy się nią zajmować? Zachęcamy do lektury <a class="content-link" href="{{ site.baseurl }}/img/pliki_tekstowe/nowe technologie w edukacji.docx" download> tekstu Grzegorza Stunży dotyczącego nowoczesnych technologii w szkole i poznania ich pozytywnej strony</a>. </p>
 </div>
