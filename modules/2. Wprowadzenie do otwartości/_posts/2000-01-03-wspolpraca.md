@@ -12,7 +12,7 @@ Współpraca w edukacji
   <p>
   Chcesz wziąć sprawy w swoje ręce? Dokonać chociaż małej zmiany w swojej szkole? Zacznij od obejrzenia filmu Oktawii Gorzeńskiej, która opowiada o 5 elementach zmiany, w tym o wadze współpracy i dialogu. 
   </p>
-  
+  &nbsp;
   <p>
   <div class="row">
   <div class="col-md-12 col-xs-12">
