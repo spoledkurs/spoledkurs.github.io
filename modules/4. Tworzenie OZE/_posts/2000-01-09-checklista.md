@@ -6,9 +6,9 @@ title: "Checklista"
 ---
 
 <div class="text-center screen-title">
-
-</div>
 Checklista
+</div>
+
 <div class="screen-content">
   <p>
   Stworzyłaś/eś swój materiał, ale chcesz być pewna/y, że jest on całkowicie otwarty? Sprawdź naszą listę warunków otwartości.
