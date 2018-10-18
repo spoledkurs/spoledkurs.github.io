@@ -1,12 +1,12 @@
 ---
 layout: "course_page"
 
-title: "Zmiana w edukacji"
+title: "Małe rewolucje"
 
 ---
 
 <div class="text-center screen-title">
-Zmiana w edukacji
+Małe rewolucje
 </div>
 
 <div class="screen-content">
