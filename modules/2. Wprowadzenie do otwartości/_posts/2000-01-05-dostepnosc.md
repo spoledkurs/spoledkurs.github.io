@@ -1,7 +1,7 @@
 ---
 layout: "course_page"
 
-title: "Dostępność materiałów edukacyjnych"
+title: "Dostępność"
 ---
 
 <div class="text-center screen-title">
