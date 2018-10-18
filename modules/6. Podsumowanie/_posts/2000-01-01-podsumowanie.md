@@ -12,6 +12,8 @@ Podsumowanie
 <div class="screen-content">
   <p>
   Bardzo dziękujemy za udział w naszym kursie! Mamy ogromną nadzieję, że dzięki kursowi dowiedziałaś/eś się, czym są otwarte zasoby oraz otwarta edukacja i - co jeszcze ważniejsze - macie ochotę wdrażać jej założenia w swojej szkole.
+Liczymy również na to, że udało Ci się poznać osoby, które również mają ochotę na zmianę w edukacji i myślą podobnie.
+
   </p>
   
   <p>
