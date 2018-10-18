@@ -622,8 +622,29 @@ img.footer-sponsor {
 }
  
 @media (max-width: 991px) {
+	.footer {
+		padding-top: 5px !important;	
+	}
+	
 	.container-footer {
-	text-align: center !important;	
+		text-align: center !important;	
+	}
+	
+	img.footer-logo {
+		padding-left: 0 !important;
+	}
+	
+	img.license {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	p.footer {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	img.footer-sponsor {
+		margin-top: 10px;
+		margin-bottom: 10px;
 	}
 	
 }
