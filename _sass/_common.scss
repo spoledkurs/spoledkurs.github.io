@@ -181,9 +181,17 @@ video {
 	
 }
 
+@media (min-width: 680px) and (max-width: 870px) {
+	
+	.jumbotron header h1 {
+		top: 100px !important;
+	}
+
+}
+
 @media (max-width: 380px) {
     .jumbotron header h1 {
-	top: 130px !important;
+	/*top: 130px !important; */
 	left: 0 !important;
 	right: 0 !important;
 	font-size: 40pt !important;     
