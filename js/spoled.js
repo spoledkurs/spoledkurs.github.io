@@ -14,4 +14,5 @@ $('.module-name').children().click(function(){
 });
 
 $(".dropdown.active ul").show();
+$(".dropdown.active i").toggleClass("fa-angle-down fa-angle-up");
 
