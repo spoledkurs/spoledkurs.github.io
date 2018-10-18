@@ -1,17 +1,17 @@
 ---
 layout: "course_page"
 
-title: "Baza OZE"
+title: "Platformy OZE"
 
 ---
 
 <div class="text-center screen-title">
-Baza OZE
+Platformy OZE
 </div>
 
 <div class="screen-content">
   <p>
-  W Polsce nie ma jednej kompletnej bazy otwartych zasobów edukacyjnych. Taką bazę można zobaczyć np. <a class="content-link" target="_blank" href="https://www.klascement.net/?hl=en">w wersji holenderskiej</a>. Są tam również materiały po angielsku, więc zachęcamy do korzystania.
+  W Polsce nie ma jednej kompletnej bazy otwartych zasobów edukacyjnych. Taką bazę można zobaczyć np. <a class="content-link" target="_blank" href="https://www.klascement.net/?hl=en">w wersji belgijskiej</a> lub <a class="content-link" target="_blank" href="https://ndla.no/">norweskiej</a>. Są tam również materiały po angielsku, więc zachęcamy do korzystania.
   </p>
   
   <p>
