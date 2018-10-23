@@ -15,7 +15,7 @@ Gdzie szukać materiałów do naszych prac
   </p>
   
   <p>
-  My zachęcamy do grupowego budowania i powiększania dobra wspólnego, co wiąże się z wykorzystywaniem istniejących materiałów i ich twórczym przetwarzaniem. Poniżej znajdziesz nasze propozycje stron, na których można znaleźć wartościowe, otwarte materiały, które mogą stać się elementami Twojej pracy. Pamiętaj tylko, aby zawsze oznaczyć źródło.
+  My zachęcamy do grupowego budowania i powiększania dobra wspólnego, co wiąże się z wykorzystywaniem istniejących materiałów i ich twórczym przetwarzaniem. Poniżej znajdziesz nasze propozycje stron, gdzie można znaleźć wartościowe, otwarte materiały, które mogą stać się elementami Twojej pracy. Pamiętaj tylko, aby zawsze oznaczyć źródło.
 
   </p>
   
