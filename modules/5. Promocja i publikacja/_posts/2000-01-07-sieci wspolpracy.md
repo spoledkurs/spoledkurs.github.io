@@ -26,6 +26,6 @@ Poniżej znajdziesz trochę wskazówek z Ośrodka Rozwoju Edukacji.
 </ul>
 
 <p>
-Jeśli nie wiesz, jak się zabrać za poszukiwanie sojuszników lub po prostu wolałabyś/wolałbyś dołączyć do istniejącej grupy, napisz do nas na adres <br/> spoled@centrumcyfrowe.pl
+Jeśli nie wiesz, jak się zabrać za poszukiwanie sojuszników lub po prostu wolałabyś/wolałbyś dołączyć do istniejącej grupy, napisz do nas na adres: <br/> spoled@centrumcyfrowe.pl
 </p>
 </div> 
