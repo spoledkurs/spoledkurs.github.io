@@ -221,6 +221,29 @@ video {
 	
 }
 
+@media (min-width: 2151px)
+	
+	#intro {
+	   margin-left: 300px !important;
+	   margin-right: 350px !important; 
+	}
+}
+
+@media (min-width: 1821px) and (max-width: 2150px) {
+	
+	#intro {
+	   margin-left: 260px !important;
+	   margin-right: 280px !important; 
+	}
+}
+
+@media (min-width: 1566px) and (max-width: 1820px) {
+	
+	#intro {
+	   margin-left: 200px !important;
+	   margin-right: 220px !important; 
+	}
+}
 
 @media (min-width: 1311px) and (max-width: 1565px) {
 	
