@@ -10,7 +10,7 @@ Małe rewolucje
 </div>
 
 <div class="screen-content">
-  <p>Pamiętaj, że zmiany wprowadzasz dla siebie, ale też dla swoich uczniów. Zobacz, co o takich małych rewolucjach mówi Aleksander Pawlicki, wykładowca w Szkole Edukacji (studiach podyplomowych, które kształcą nauczycieli).</p>
+  <p>Pamiętaj, że zmiany wprowadzasz dla siebie, ale też dla swoich uczniów. Zobacz, co o takich małych rewolucjach mówi Aleksander Pawlicki, wykładowca w Szkole Edukacji (która prowadzi studia podyplomowe kształcące nauczycieli).</p>
 &nbsp;
  <p>
   <div class="row">
@@ -25,7 +25,7 @@ Małe rewolucje
 </p>
 &nbsp;
 <p>
-  Z drugiej strony zobacz, co szkoła w tradycyjnym kształcie robi z umysłami dzieci i czy faktycznie musi tak być? <a class="content-link" target="_blank" href="https://www.youtube.com/watch?v=XnPaz5e-uD8">Opowiada Angelika M. Talaga</a>.
+  Zobacz, co szkoła w tradycyjnym kształcie robi z umysłami dzieci i czy faktycznie musi tak być? <a class="content-link" target="_blank" href="https://www.youtube.com/watch?v=XnPaz5e-uD8">Opowiada Angelika M. Talaga</a>.
  </p> 
 
 </div>
