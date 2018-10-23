@@ -30,7 +30,7 @@ Otwarta edukacja to między innymi dzielenie się, wykorzystywanie dostępnych z
 &nbsp;
 
 <p><strong>Czas:</strong></p>  
-  <p>Przejście całego kursu wraz z wykonaniem zadań jest obliczone na 6 tygodni. Proponujemy zaglądanie na kurs 2-3 razy w tygodniu, aby sprawdzić, czy coś ciekawego pojawiło się w podłączonych do ostatnich ekranów kolejnych modułów formularzach do komentarzy. Przeczytanie jednego modułu i wykonanie zadania nie powinno zająć więcej niż 3 godziny (zadanie po module V może być trochę bardziej czasochłonne).</p>
+  <p>Przejście całego kursu wraz z wykonaniem zadań jest obliczone na 6 tygodni. Proponujemy zaglądanie na kurs 2-3 razy w tygodniu, aby sprawdzić, czy coś ciekawego pojawiło się w podłączonych do ostatnich ekranów kolejnych modułów formularzach do komentarzy. Przeczytanie jednego modułu i wykonanie zadania nie powinno zająć więcej niż 3 godziny (zadanie po module 5. może być trochę bardziej czasochłonne).</p>
   
   &nbsp;
   
