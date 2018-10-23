@@ -567,6 +567,12 @@ p.source {
 	margin-left: 40px;
 }
 
+@media (max-width: 992px)
+	.col-md-8 {
+	min-height: 684px;
+	}
+}
+
 
 .about-project {
 	background: url("../img/baner-o-projekcie 1.png");
