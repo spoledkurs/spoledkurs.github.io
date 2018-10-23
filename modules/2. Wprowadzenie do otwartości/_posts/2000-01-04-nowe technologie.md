@@ -19,5 +19,5 @@ Nowoczesne technologie
 </p>
 
 
-<p>Jak jest z tą technologią i czy powinniśmy się nią zajmować? Bać się jej, czy może lepiej wykorzystywać? Zachęcamy do lektury <a class="content-link" href="{{ site.baseurl }}/img/pliki_tekstowe/nowe technologie w edukacji.docx" download> tekstu Grzegorza Stunży dotyczącego nowoczesnych technologii w szkole i poznania ich pozytywnej strony</a>. </p>
+<p>Jak jest z tą technologią i czy powinniśmy się nią zajmować? Bać się jej czy może lepiej wykorzystywać? Zachęcamy do lektury <a class="content-link" href="{{ site.baseurl }}/img/pliki_tekstowe/nowe technologie w edukacji.docx" download> tekstu Grzegorza Stunży dotyczącego nowoczesnych technologii w szkole i poznania ich pozytywnej strony</a>. </p>
 </div>
