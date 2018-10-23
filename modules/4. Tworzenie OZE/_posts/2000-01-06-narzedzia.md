@@ -19,7 +19,7 @@ Narzędzia
   </p>
   
   <p>
-  Zachęcamy do samodzielnego tworzenia <strong>filmów</strong> do wykorzystania na lekcji. Więcej na ten temat mówi Krzysztof Chojecki w webinarium:
+  Zachęcamy do samodzielnego tworzenia <strong>filmów</strong> do wykorzystania na lekcji. Więcej na ten temat mówi Krzysztof Chojecki, youtuber, autor filmów edukacyjnych, w webinarium:
   </p>
   &nbsp;
   <p>
