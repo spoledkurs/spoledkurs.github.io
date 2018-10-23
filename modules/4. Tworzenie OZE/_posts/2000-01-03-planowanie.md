@@ -26,6 +26,8 @@ Planowanie
     <p>Zastanówcie się, czy robicie pojedyncze ćwiczenie, czy początek dla większego materiału. Zdecydujcie, kto będzie odbiorcą (uczniowie, uczennice z trudnościami czy ci zdolni, a może rodzice, którzy chcą pomóc swoim dzieciom w nauce?). </p>
 <strong><li class="number">Zaplanuj publikację</li></strong>
     <p>Kiedy materiał będzie gotowy, pomyśl, czy chcesz go wrzucić na stronę szkoły, własnego bloga, portal edukacyjny, a później na swojego Facebooka lub Instagram?</p>
+    <strong><li class="number">Wybierz licencję</li></strong>
+    <p>Może mieć to wpływ, z których narzędzi możecie korzystać i jakie materiały wykorzystać do swojej pracy.</p>
 </ol>
   </p>
   
