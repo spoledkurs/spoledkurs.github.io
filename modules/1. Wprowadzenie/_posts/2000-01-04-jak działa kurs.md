@@ -11,7 +11,7 @@ Jak działa kurs?
 
 <div class="screen-content">
   <p>Chcemy podzielić się z Wami doświadczeniem, które zebraliśmy przez lata pracy z otwartymi zasobami edukacyjnymi oraz współpracując w ostatnim roku z nauczycielami i nauczycielkami, specjalistami i specjalistkami z różnych dziedzin. <br/>
-Kurs oparty jest na materiałach, które powstały w ramach <a href="{{ site.baseurl }}/modules/1. wprowadzenie/spoled/">Spółdzielni</a> oraz podczas innych projektów Centrum Cyfrowego. <br/>
+Kurs oparty jest na materiałach, które powstały w ramach <a class="content-link" target="_blank" href="{{ site.baseurl }}/modules/1. wprowadzenie/spoled/">Spółdzielni</a> oraz podczas innych projektów Centrum Cyfrowego. <br/>
 Otwarta edukacja to między innymi dzielenie się, wykorzystywanie dostępnych zasobów, ekologia obiegów treści, dlatego chętnie sięgamy po treści już dostępne w sieci i dlatego też zachęcamy Was do czytania, pobierania i przerabiania materiałów tu dostępnych na własne potrzeby.
 </p> 
 <p>Treści kursu są dostępne dla wszystkich chętnych - bez rejestracji. Kurs zawiera również samosprawdzające się quizy i testy.</p>
@@ -25,12 +25,12 @@ Otwarta edukacja to między innymi dzielenie się, wykorzystywanie dostępnych z
 &nbsp;
   
   <p><strong>Dla kogo:</strong></p>  
-  <p>Kurs jest przeznaczony przede wszystkim dla nauczycieli i nauczycielek edukacji szkolnej, ale przydać się też może wszystkim pracującym z młodzieżą, a także nauczyciel(k)om akademickim.</p>
+  <p>Kurs jest przeznaczony przede wszystkim dla nauczycieli i nauczycielek edukacji szkolnej, ale przydać się też może wszystkim pracującym z młodzieżą, a także nauczycielom i nauczycielkom akademickim.</p>
 
 &nbsp;
 
 <p><strong>Czas:</strong></p>  
-  <p>Przejście całego kursu wraz z wykonaniem zadań jest obliczone na 6 tygodni. Proponujemy zaglądanie na kurs 2-3 razy w tygodniu, aby sprawdzić, czy coś ciekawego dla nas pojawiło się na forum. Przeczytanie jednego modułu i wykonanie zadania nie powinno zająć więcej niż 3 godziny.</p>
+  <p>Przejście całego kursu wraz z wykonaniem zadań jest obliczone na 6 tygodni. Proponujemy zaglądanie na kurs 2-3 razy w tygodniu, aby sprawdzić, czy coś ciekawego pojawiło się w podłączonych do ostatnich ekranów kolejnych modułów formularzach do komentarzy. Przeczytanie jednego modułu i wykonanie zadania nie powinno zająć więcej niż 3 godziny (zadanie po module V może być trochę bardziej czasochłonne).</p>
   
   &nbsp;
   
@@ -53,7 +53,7 @@ Otwarta edukacja to między innymi dzielenie się, wykorzystywanie dostępnych z
   &nbsp;
   
   <p><strong>Zadania:</strong></p>  
-  <p>Po każdym module znajdziecie propozycję zadań do wykonania. Gotowe zadania można przesłać do mentora, mentorki kursu (jeśli korzysta się z opcji mentorskiej) lub umieścić na forum kursu. Aby otrzymać zaświadczenie za udział w kursie należy wykonać cztery kursowe zadania.
+  <p>Po każdym module znajdziecie propozycję zadań do wykonania. Gotowe zadania można przesłać do mentora, mentorki kursu (jeśli korzysta się z opcji mentorskiej) lub umieścić w komentarzach do kursu. Aby otrzymać zaświadczenie za udział w kursie należy wykonać cztery kursowe zadania.
 Gotowe otwarte zasoby można przesłać na adres: spoled@centrumcyfrowe.pl
 </p>
   
