@@ -10,8 +10,8 @@ Jak działa kurs?
 
 
 <div class="screen-content">
-  <p>Chcemy podzielić się z Wami doświadczeniem, które zebraliśmy przez lata pracy z otwartymi zasobami edukacyjnymi oraz współpracując w ostatnim roku z nauczyciel(k)ami i specjalist(k)ami z różnych dziedzin. <br/>
-Kurs oparty jest na materiałach, które powstały w ramach Spółdzielni oraz podczas innych projektów Centrum Cyfrowego. <br/>
+  <p>Chcemy podzielić się z Wami doświadczeniem, które zebraliśmy przez lata pracy z otwartymi zasobami edukacyjnymi oraz współpracując w ostatnim roku z nauczycielami i nauczycielkami, specjalistami i specjalistkami z różnych dziedzin. <br/>
+Kurs oparty jest na materiałach, które powstały w ramach <a href="{{ site.baseurl }}/modules/1. wprowadzenie/spoled/">Spółdzielni</a> oraz podczas innych projektów Centrum Cyfrowego. <br/>
 Otwarta edukacja to między innymi dzielenie się, wykorzystywanie dostępnych zasobów, ekologia obiegów treści, dlatego chętnie sięgamy po treści już dostępne w sieci i dlatego też zachęcamy Was do czytania, pobierania i przerabiania materiałów tu dostępnych na własne potrzeby.
 </p> 
 <p>Treści kursu są dostępne dla wszystkich chętnych - bez rejestracji. Kurs zawiera również samosprawdzające się quizy i testy.</p>
