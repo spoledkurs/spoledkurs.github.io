@@ -12,7 +12,7 @@ Przykłady
 <div class="screen-content">
   <p>
   Przez ostatnie lata powstało sporo otwartych zasobów edukacyjnych. Warto je przejrzeć, aby wiedzieć, jakie dają możliwości. Są to zbiory bibliotek, muzeów, uniwersytetów, ale też Wikipedia, Open Street Map itp. 
-Mamy też strony zawierające gotowe scenariusze zajęć czy opisy metod i ćwiczeń do wykorzystania w szkole - blogi i portale prowadzone m.in. przez nauczyciel(k)i, profesorki, profesorów, edukatorki i edukatorów czy nieformalne grupy:   
+Mamy też strony zawierające gotowe scenariusze zajęć czy opisy metod i ćwiczeń do wykorzystania w szkole - blogi i portale prowadzone m.in. przez nauczycieli i nauczycielki, profesorki i profesorów, edukatorki i edukatorów czy nieformalne grupy:   
  <ul>
 <li class="bullet"><a class="content-link" target="_blank" href="http://www.nauczanka.edu.pl/">http://www.nauczanka.edu.pl/</a></li>
 <li class="bullet"><a class="content-link" target="_blank" href="https://profesorskiegadanie.blogspot.com/">https://profesorskiegadanie.blogspot.com/</a></li>
