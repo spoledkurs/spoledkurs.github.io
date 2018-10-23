@@ -9,7 +9,7 @@ Dostępność materiałów edukacyjnych
 </div>
 
 <div class="screen-content">
-<p>Otwartość w edukacji to również jej dostępność dla osób z różnymi potrzebami edukacyjnymi i dysfunkcjami. Warto o tym pamiętać, kiedy tworzymy swoje zasoby, ale również, kiedy myślimy o edukacji w szerszym kontekście, tworząc scenariusze lekcji czy myśląc o sposobie nauczania. Dorota Orzeszek przygotowała wskazówki dla tych, którzy chcą umieszczać swoje materiały w internecie, w jak najbardziej dostępny sposób.</p>
+<p>Otwartość w edukacji to również jej dostępność dla osób z różnymi potrzebami edukacyjnymi i dysfunkcjami. Warto o tym pamiętać, kiedy tworzymy swoje zasoby, ale również, kiedy myślimy o edukacji w szerszym kontekście, tworząc scenariusze lekcji czy myśląc o sposobie nauczania. Dorota Orzeszek, specjalistka ds. dostępności i UX, przygotowała wskazówki dla tych, którzy chcą umieszczać swoje materiały w internecie, w jak najbardziej dostępny sposób.</p>
   &nbsp;
   <p>
   <strong>Co zrobić, żeby tekst był jak najbardziej dostępny?</strong>
@@ -29,8 +29,9 @@ Dostępność materiałów edukacyjnych
 <li class="number">Do wszystkich obrazków i grafik dołącz tekst alternatywny, a do filmów napisy.</li>
 </ol>
   </p>
-  <p>
- <a class="content-link" href="{{ site.baseurl }}/img/pliki_tekstowe/dostępnosc.docx" download> Przeczytaj więcej na temat dostępności.</a>
+    &nbsp;
+  <p class="text-center">
+ <strong><a class="content-link" href="{{ site.baseurl }}/img/pliki_tekstowe/dostępnosc.docx" download> Przeczytaj więcej na temat dostępności.</a> <strong>
   </p>
   
 
