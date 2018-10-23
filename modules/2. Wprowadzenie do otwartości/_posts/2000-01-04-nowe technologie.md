@@ -3,13 +3,13 @@
 layout: "course_page"
 
 
-title: "Nowoczesne technologie w edukacji"
+title: "Nowoczesne technologie"
 
 
 ---
 
 <div class="text-center screen-title">
-Nowoczesne technologie
+Nowoczesne technologie w edukacji
 </div>
 
 <div class="screen-content">
