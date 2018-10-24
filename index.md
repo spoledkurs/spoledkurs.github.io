@@ -8,7 +8,7 @@ published: true
 Będziemy pokazywać metody, narzędzia i praktyki wspierające otwartość. 
   </p>
   <p>
-    Poznasz metodę pracy Spółdzielni Otwartej Edukacji. Dowiesz się, czemu współpraca, uczenie się, przygodą i w efekcie otwarte zasoby są dla nas ważnymi elementami procesu otwierania się w edukacji. Podczas kursu będziesz mieć okazję poznać innych nauczycieli i nauczycielki, dyskutować z nimi i uczyć się wzajemnie, a nawet zaprosić do współpracy. 
+    Poznasz metodę pracy Spółdzielni Otwartej Edukacji. Dowiesz się, czemu współpraca, uczenie się, przygoda i w efekcie otwarte zasoby są dla nas ważnymi elementami procesu otwierania się w edukacji. Podczas kursu będziesz mieć okazję poznać innych nauczycieli i nauczycielki, dyskutować z nimi i uczyć się wzajemnie, a nawet zaprosić do współpracy. 
  </p> 
 </div>  
 
