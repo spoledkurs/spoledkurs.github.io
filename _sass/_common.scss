@@ -1,6 +1,11 @@
 
-img.resources {
+.resources-container {
 	height: 325px;
+}
+
+img.resources {
+	height: 100%;
+	width: auto;
 }
 
 body {
