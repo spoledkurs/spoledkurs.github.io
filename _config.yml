@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /spoledkurs.github.io
+baseurl: /spoledkurs.centrumcyfrowe.pl
 markdown: kramdown
 permalink: /:categories/:title/
 
