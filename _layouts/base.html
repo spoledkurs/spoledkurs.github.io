@@ -20,19 +20,19 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<link rel="shortcut icon" href="{{ site.baseurl }}/img/favicon.ico">
-	<link rel="apple-touch-icon" href="{{ site.baseurl }}/img/apple-touch-icon.png">
+	<link rel="shortcut icon" href="/img/favicon.ico">
+	<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
 
-	<link rel="stylesheet" href="{{ site.baseurl }}/css/p2pustrap-custom.css" />
-	<link rel="stylesheet" href="{{ site.baseurl }}/css/site.css" />
+	<link rel="stylesheet" href="/css/p2pustrap-custom.css" />
+	<link rel="stylesheet" href="/css/site.css" />
   {% if page.extra_css %}
     {% for css in page.extra_css %}
-    <link rel="stylesheet" href="{{ site.baseurl }}{{ css }}" />
+    <link rel="stylesheet" href="{{ css }}" />
     {% endfor %}
   {% endif %}
 
-	<link rel="shortcut icon" href="{{ site.baseurl }}/img/favicon.ico">
-	<script type="text/javascript" src="{{ site.baseurl }}/js/modernizr-2.6.2.min.js"></script>
+	<link rel="shortcut icon" href="img/favicon.ico">
+	<script type="text/javascript" src="/js/modernizr-2.6.2.min.js"></script>
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:400,700,900&amp;subset=latin-ext">
 	<script src="https://use.fontawesome.com/1dd9338d9c.js"></script>
 	
@@ -74,14 +74,14 @@
 </script>
 
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-<script src="{{site.baseurl}}/js/init.js"></script>
-<script src="{{site.baseurl}}/js/gh_link_helper.js"></script>
+<script src="/js/init.js"></script>
+<script src="/js/gh_link_helper.js"></script>
 	
  <script src="{{site.baseurl}}/js/spoled.js"></script> 	
 
 {% if page.extra_js %}
   {% for js in page.extra_js %}
-    <script src="{{site.baseurl}}{{js}}"></script>
+    <script src="{{js}}"></script>
   {% endfor %}
 {% endif %}
 
