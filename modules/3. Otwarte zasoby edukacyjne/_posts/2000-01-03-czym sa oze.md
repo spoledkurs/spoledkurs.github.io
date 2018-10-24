@@ -37,7 +37,7 @@ Upraszczając, otwarty zasób to taki, który możemy pobrać, skopiować, zmien
   <div class="resources-container">
  <a href="http://koed.org.pl/wp-content/uploads/2014/05/OER_handbook_v5_online1.pdf" target="_blank"><img class="resources" src="{{ site.baseurl }}/img/przewodnik_oze_small.png"></a>
   </div>
- <p>
+ <p class="resource">
     publikację <a class="content-link" target="_blank" href="http://koed.org.pl/wp-content/uploads/2014/05/OER_handbook_v5_online1.pdf"> &bdquo;Przewodnik po otwartych zasobach edukacyjnych&rdquo;</a> Koalicji Otwartej Edukacji,
   </p>
  
@@ -46,7 +46,7 @@ Upraszczając, otwarty zasób to taki, który możemy pobrać, skopiować, zmien
   <div class="resources-container">
  <a href="http://prawokultury.pl/publikacje/wolne-licencje/"><img class="resources" src="{{ site.baseurl }}/img/prawo_kultury_logo.png"></a>
   </div>
- <p>
+ <p class="resource">
     stronę <a class="content-link" target="_blank" href="http://prawokultury.pl/publikacje/wolne-licencje/">prawokultury.pl</a>,
     </p>
 </div> 
@@ -55,7 +55,7 @@ Upraszczając, otwarty zasób to taki, który możemy pobrać, skopiować, zmien
 <div class="resources-container">
  <a href="https://men.gov.pl/wp-content/uploads/2013/07/mapa_oze.pdf"><img class="resources" src="{{ site.baseurl }}/img/mapa_oze_small.png"></a>
   </div>
- <p>
+ <p class="resource">
   publikację <a class="content-link" target="_blank" href="https://men.gov.pl/wp-content/uploads/2013/07/mapa_oze.pdf"> &bdquo;Mapa otwartych zasobów edukacyjnych&rdquo;</a>.
   </p>
 </div> 
