@@ -578,6 +578,12 @@ blockquote {
 	height: 100% !important;
 }
 
+@media (min-width: 992px) {
+	.col-md-8 {
+	min-height: 684px;
+	}
+}
+
 a.dictionary {
 	text-decoration: none;	
 }
@@ -586,6 +592,7 @@ p.source {
 	font-size: 13px;
 	margin-left: 40px;
 }
+
 
 .resources-container {
 	height: 325px;
