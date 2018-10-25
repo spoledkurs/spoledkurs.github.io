@@ -73,6 +73,12 @@ p.white {
 	}
 }
 
+@media (max-width: 420px) {
+	img.manifest-img {
+		 max-width: 100% !important;
+	}
+}
+
 .resources-container {
 	height: 325px;
 }
