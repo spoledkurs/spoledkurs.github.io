@@ -494,8 +494,11 @@ li {
 }
 @media (max-width: 314px) {
 	.sidebar-title, .sidebar li, .sidebar1 li {
-		padding-left: 10px !important;
+		padding-left: 5px !important;
 		}
+	.sidebar li, .sidebar1 li {
+		font-size:15px;
+	}
 }
 
 .pagination-section {
