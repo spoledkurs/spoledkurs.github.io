@@ -16,6 +16,11 @@ p.white {
 }
 
 
+@media (max-width: 991px) {
+	.row-eq-height {
+		display: block;
+	}
+}
 
 .resources-container {
 	height: 325px;
