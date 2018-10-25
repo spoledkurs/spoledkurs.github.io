@@ -618,6 +618,17 @@ li {
 	color: #ffffff;
 }
 
+@media (min-width: 315px) and (max-width: 1045px) {
+	.sidebar-title, .sidebar li, .sidebar1 li {
+		padding-left: 25px !important;
+		}
+}
+@media (max-width: 314px) {
+	.sidebar-title, .sidebar li, .sidebar1 li {
+		padding-left: 10px !important;
+		}
+}
+
 
 .pagination-section {
 	margin: 1em 0;
