@@ -30,3 +30,4 @@ Jeśli masz jakieś pytania dotyczące kursu, pisz na adres: <br/> <strong>aczet
 </p>
 
 </div> 
+{% include disqus.html %} 
