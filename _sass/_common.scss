@@ -8,6 +8,14 @@ p.white {
 	/*margin-top: -2px; */
 }
 		
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
+
+
 
 .resources-container {
 	height: 325px;
