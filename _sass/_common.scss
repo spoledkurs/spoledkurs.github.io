@@ -79,6 +79,13 @@ p.white {
 	}
 }
 
+@media (max-width: 300px) {
+	h2, .screen-title {
+		font-size: 35px !important;	
+	}
+	
+}
+
 .resources-container {
 	height: 325px;
 }
