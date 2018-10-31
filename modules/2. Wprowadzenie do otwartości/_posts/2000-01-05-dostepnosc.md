@@ -141,7 +141,7 @@ Dostępność materiałów edukacyjnych
   </p>
 
 &nbsp; 
-<p class="source">
+<p class="icons-source">
 Ikony pochodzące z the Noun Project, dostępne na licencji CC BY: <br/>
 	Structure by Ralf Schmitzer, Table Of Contents by Alex Bickov, Constructed Language by H Alberto Gongora, users by sofi, 
 	Contrast by Chinnaking, emotion by Andrejs Kirma, chart by Barracuda, Subtitles by Maarten De Proost.
