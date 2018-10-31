@@ -114,7 +114,7 @@ Dostępność materiałów edukacyjnych
 
 <div class="row access">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/noun_chart.svg" />          
+   <img src="{{ site.baseurl }}/img/noun_chart.png" />          
   </div>   
   <div class="col-md-10">
     <p>
