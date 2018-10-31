@@ -16,7 +16,7 @@ Dostępność materiałów edukacyjnych
   </p>
 &nbsp;
   
-  <div class="row">
+  <div class="row access">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/noun_Structure.svg" />          
   </div>   
@@ -27,8 +27,8 @@ Dostępność materiałów edukacyjnych
   </div>             
 </div>
    &nbsp; 
-   &nbsp;
-<div class="row">
+
+<div class="row access">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/zasoby_ikona8.png" />          
   </div>   
@@ -39,8 +39,8 @@ Dostępność materiałów edukacyjnych
   </div>             
 </div>    
    &nbsp; 
-   &nbsp;
-<div class="row">
+   
+<div class="row access">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/noun_Table Of Contents.svg" />          
   </div>   
@@ -51,8 +51,8 @@ Dostępność materiałów edukacyjnych
   </div>             
 </div>    
 &nbsp;
-&nbsp;
-<div class="row">
+
+<div class="row access">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/noun_Constructed Language.svg" />          
   </div>   
@@ -63,8 +63,8 @@ Dostępność materiałów edukacyjnych
   </div>             
 </div>    
 &nbsp;
-&nbsp;
-<div class="row">
+
+<div class="row access">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/noun_users.svg" />          
   </div>   
@@ -75,8 +75,8 @@ Dostępność materiałów edukacyjnych
   </div>             
 </div>    
 &nbsp; 
-&nbsp;
-<div class="row">
+
+<div class="row access">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/zasoby_ikona9.png" />          
   </div>   
@@ -87,8 +87,8 @@ Dostępność materiałów edukacyjnych
   </div>             
 </div>    
 &nbsp;
-&nbsp;
-<div class="row">
+
+<div class="row access">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/noun_Contrast.svg" />          
   </div>   
@@ -99,8 +99,8 @@ Dostępność materiałów edukacyjnych
   </div>             
 </div>    
 &nbsp;
-&nbsp;
-<div class="row">
+
+<div class="row access">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/noun_emotion.svg" />          
   </div>   
@@ -111,8 +111,8 @@ Dostępność materiałów edukacyjnych
   </div>             
 </div> 
 &nbsp;
-&nbsp;
-<div class="row">
+
+<div class="row access">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/noun_chart.svg" />          
   </div>   
@@ -123,8 +123,8 @@ Dostępność materiałów edukacyjnych
   </div>             
 </div> 
 &nbsp; 
-&nbsp;
-<div class="row">
+
+<div class="row access">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/noun_Subtitles.svg" />          
   </div>   
@@ -135,7 +135,7 @@ Dostępność materiałów edukacyjnych
   </div>             
 </div> 
   &nbsp; 
-  &nbsp;
+
 <p class="text-center">
  <strong><a class="content-link" href="{{ site.baseurl }}/img/pliki_tekstowe/dostępnosc.docx" download> Przeczytaj więcej na temat dostępności.</a> </strong>
   </p>
