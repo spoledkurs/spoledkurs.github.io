@@ -66,7 +66,7 @@ Dostępność materiałów edukacyjnych
 
 <div class="row access">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/noun_users.svg" />          
+   <img src="{{ site.baseurl }}/img/noun_users.png" />          
   </div>   
   <div class="col-md-10">
     <p>
