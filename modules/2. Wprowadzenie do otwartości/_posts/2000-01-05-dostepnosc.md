@@ -18,7 +18,7 @@ Dostępność materiałów edukacyjnych
   
   <div class="row access">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/noun_Structure.svg" />          
+   <img src="{{ site.baseurl }}/img/noun_Structure.png" />          
   </div>   
   <div class="col-md-10">
     <p>
@@ -42,7 +42,7 @@ Dostępność materiałów edukacyjnych
    
 <div class="row access">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/noun_Table Of Contents.svg" />          
+   <img src="{{ site.baseurl }}/img/noun_Table Of Contents.png" />          
   </div>   
   <div class="col-md-10">
     <p>
@@ -54,7 +54,7 @@ Dostępność materiałów edukacyjnych
 
 <div class="row access">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/noun_Constructed Language.svg" />          
+   <img src="{{ site.baseurl }}/img/noun_Constructed Language.png" />          
   </div>   
   <div class="col-md-10">
     <p>
@@ -90,7 +90,7 @@ Dostępność materiałów edukacyjnych
 
 <div class="row access">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/noun_Contrast.svg" />          
+   <img src="{{ site.baseurl }}/img/noun_Contrast.png" />          
   </div>   
   <div class="col-md-10">
     <p>
@@ -102,7 +102,7 @@ Dostępność materiałów edukacyjnych
 
 <div class="row access">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/noun_emotion.svg" />          
+   <img src="{{ site.baseurl }}/img/noun_emotion.png" />          
   </div>   
   <div class="col-md-10">
     <p>
@@ -126,7 +126,7 @@ Dostępność materiałów edukacyjnych
 
 <div class="row access">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/noun_Subtitles.svg" />          
+   <img src="{{ site.baseurl }}/img/noun_Subtitles.png" />          
   </div>   
   <div class="col-md-10">
     <p>
