@@ -13,6 +13,12 @@ p {
 	font-size: 16px;
 }
 
+@media (max-width: 991px) {
+	p {
+		margin-top: 10px:
+	}
+}
+
 .course {
 	background-color: #3c7c96 !important;
 }
@@ -712,6 +718,15 @@ p.source {
 
 p.resource {
 	margin-top: 10px;
+}
+
+p.icons-source {
+	font-size: 13px;
+}
+
+.access {
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 .about-project {
