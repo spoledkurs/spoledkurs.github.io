@@ -33,5 +33,116 @@ Dostępność materiałów edukacyjnych
  <a class="content-link" href="{{ site.baseurl }}/img/pliki_tekstowe/dostępnosc.docx" download> Przeczytaj więcej na temat dostępności.</a>
   </p>
   
+  
+  <div class="row">
+  <div class="col-md-2">
+   <img src="{{ site.baseurl }}/img/noun_Structure.svg" />          
+  </div>   
+  <div class="col-md-10">
+    <p>
+	1. Zadbaj o jego przejrzystość i logiczną strukturę.
+	</p>
+  </div>             
+</div>
+   &nbsp;  
+<div class="row">
+  <div class="col-md-2">
+   <img src="{{ site.baseurl }}/img/zasoby_ikona8.png" />          
+  </div>   
+  <div class="col-md-10">
+   <p>
+   2. Wszelkie wyróżnienia, obrazki i dodatkowe kształty powinny czemuś służyć (np. wyróżnieniu tekstu, nieść dodatkową treść itp.).
+   </p>
+  </div>             
+</div>    
+   &nbsp;  
+<div class="row">
+  <div class="col-md-2">
+   <img src="{{ site.baseurl }}/img/noun_Table Of Contents.svg" />          
+  </div>   
+  <div class="col-md-10">
+    <p>
+	3. Zrób spis treści, pamiętaj o nagłówkach i śródtytułach. Ważne, aby faktycznie dotyczyły one treści, które opisują.
+   </p>
+  </div>             
+</div>    
+&nbsp;  
+<div class="row">
+  <div class="col-md-2">
+   <img src="{{ site.baseurl }}/img/noun_text.svg" />          
+  </div>   
+  <div class="col-md-10">
+    <p>
+	4. Używaj prostego, zwięzłego języka. Skracaj teksty, jeśli tylko jest to możliwe.
+   </p>
+  </div>             
+</div>    
+&nbsp;  
+<div class="row">
+  <div class="col-md-2">
+   <img src="{{ site.baseurl }}/img/noun_users.svg" />          
+  </div>   
+  <div class="col-md-10">
+    <p>
+	5. Pamiętaj, kto jest odbiorcą twojego tekstu i dostosuj treść.
+   </p>
+  </div>             
+</div>    
+&nbsp;  
+<div class="row">
+  <div class="col-md-2">
+   <img src="{{ site.baseurl }}/img/zasoby_ikona9.png" />          
+  </div>   
+  <div class="col-md-10">
+    <p>
+	6. Przy wyborze fontów staraj się kierować ich prostotą. Jeśli planujesz drukować materiał trzymaj się rozmiaru minimum 12 pkt.
+   </p>
+  </div>             
+</div>    
+&nbsp;  
+<div class="row">
+  <div class="col-md-2">
+   <img src="{{ site.baseurl }}/img/noun_Contrast.svg" />          
+  </div>   
+  <div class="col-md-10">
+    <p>
+	7. Jeśli planujesz używać kolorów tekście to zwróć uwagę na kontrast między tłem a literami. Tło powinno być też gładkie.
+   </p>
+  </div>             
+</div>    
+&nbsp;  
+<div class="row">
+  <div class="col-md-2">
+   <img src="{{ site.baseurl }}/img/noun_emotion.svg" />          
+  </div>   
+  <div class="col-md-10">
+    <p>
+	8. Nie zamieniaj tekstu na grafiki (obrazki), gdyż będzie on nieczytelny dla urządzeń asystujących.
+   </p>
+  </div>             
+</div> 
+&nbsp;  
+<div class="row">
+  <div class="col-md-2">
+   <img src="{{ site.baseurl }}/img/noun_chart.svg" />          
+  </div>   
+  <div class="col-md-10">
+    <p>
+	9. Wykresy zawsze dokładnie opisuj. W samej grafice używaj kolorów o różnym nasyceniu i fakturze.
+   </p>
+  </div>             
+</div> 
+&nbsp;  
+<div class="row">
+  <div class="col-md-2">
+   <img src="{{ site.baseurl }}/img/noun_Subtitles.svg" />          
+  </div>   
+  <div class="col-md-10">
+    <p>
+	10. Do wszystkich obrazków i grafik dołącz tekst alternatywny, a do filmów napisy.
+   </p>
+  </div>             
+</div> 
+  
 
 </div>
