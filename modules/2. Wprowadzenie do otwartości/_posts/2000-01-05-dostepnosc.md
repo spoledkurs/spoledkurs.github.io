@@ -130,6 +130,7 @@ Dostępność materiałów edukacyjnych
  <strong><a class="content-link" href="{{ site.baseurl }}/img/pliki_tekstowe/dostępnosc.docx" download> Przeczytaj więcej na temat dostępności.</a> </strong>
   </p>
 
+&nbsp; 
 <p class="source">
 Ikony pochodzące z the Noun Project, dostępne na licencji CC BY: <br/>
 	Structure by Ralf Schmitzer, Table Of Contents by Alex Bickov, Constructed Language by H Alberto Gongora, users by sofi, 
