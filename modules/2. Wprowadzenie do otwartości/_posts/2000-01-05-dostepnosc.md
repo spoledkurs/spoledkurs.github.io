@@ -51,7 +51,7 @@ Dostępność materiałów edukacyjnych
 &nbsp;  
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/noun_text.svg" />          
+   <img src="{{ site.baseurl }}/img/noun_Constructed Language.svg" />          
   </div>   
   <div class="col-md-10">
     <p>
@@ -129,5 +129,11 @@ Dostępność materiałów edukacyjnych
 <p class="text-center">
  <strong><a class="content-link" href="{{ site.baseurl }}/img/pliki_tekstowe/dostępnosc.docx" download> Przeczytaj więcej na temat dostępności.</a> </strong>
   </p>
+
+<p class="source">
+Ikony pochodzące z the Noun Project, dostępne na licencji CC BY: <br/>
+	Structure by Ralf Schmitzer, Table Of Contents by Alex Bickov, Constructed Language by H Alberto Gongora, users by sofi, 
+	Contrast by Chinnaking, emotion by Andrejs Kirma, chart by Barracuda, Subtitles by Maarten De Proost.
+</p>
 
 </div>
