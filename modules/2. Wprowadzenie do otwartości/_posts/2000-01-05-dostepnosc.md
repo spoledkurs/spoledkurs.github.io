@@ -125,6 +125,9 @@ Dostępność materiałów edukacyjnych
    </p>
   </div>             
 </div> 
-  
+  &nbsp; 
+<p class="text-center">
+ <strong><a class="content-link" href="{{ site.baseurl }}/img/pliki_tekstowe/dostępnosc.docx" download> Przeczytaj więcej na temat dostępności.</a> </strong>
+  </p>
 
 </div>
