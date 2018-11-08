@@ -143,8 +143,8 @@ Dostępność materiałów edukacyjnych
 &nbsp; 
 <p class="icons-source">
 Ikony pochodzące z the Noun Project, dostępne na licencji CC BY: <br/>
-	Structure by Ralf Schmitzer, Table Of Contents by Alex Bickov, Constructed Language by H Alberto Gongora, users by sofi, 
-	Contrast by Chinnaking, emotion by Andrejs Kirma, chart by Barracuda, Subtitles by Maarten De Proost.
+	<a class="content-link" href="https://thenounproject.com/search/?q=structure&i=488980">Structure by Ralf Schmitzer</a>, <a class="content-link" href="https://thenounproject.com/search/?q=table%20of%20contents&i=1010520"> Table Of Contents by Alex Bickov</a>, <a class="content-link" href="https://thenounproject.com/search/?q=language&i=1119963"> Constructed Language by H Alberto Gongora</a>, <a class="content-link" href="https://thenounproject.com/search/?q=user&i=1977590"> users by sofi</a>, 
+	<a class="content-link" href="https://thenounproject.com/search/?q=contrast&i=1199263"> Contrast by Chinnaking</a>, <a class="content-link" href="https://thenounproject.com/term/emotion/1983023/"> emotion by Andrejs Kirma</a>, <a class="content-link" href="https://thenounproject.com/search/?q=chart&i=1740189"> chart by Barracuda</a>, <a class="content-link" href="https://thenounproject.com/search/?q=subtitles&i=194646"> Subtitles by Maarten De Proost</a>.
 </p>
 
 </div>
