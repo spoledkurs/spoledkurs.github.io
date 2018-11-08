@@ -33,7 +33,7 @@ Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi
 &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/1.png" />          
+   <img src="{{ site.baseurl }}/img/1.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>1. Najpierw treść, potem forma</strong><br/>
@@ -43,7 +43,7 @@ Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi
    &nbsp;  
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/2.png" />          
+   <img src="{{ site.baseurl }}/img/2.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>2. Od problemu do rozwiązania</strong><br/>
@@ -53,7 +53,7 @@ Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi
    &nbsp;  
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/3.png" />          
+   <img src="{{ site.baseurl }}/img/3.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>3. Nie zgaduj, pytaj!</strong><br/>
@@ -63,7 +63,7 @@ Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi
  &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/4.png" />          
+   <img src="{{ site.baseurl }}/img/4.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>4. Inspiruj się</strong><br/>
@@ -73,7 +73,7 @@ Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi
  &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/5.png" />          
+   <img src="{{ site.baseurl }}/img/5.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>5. Makietuj</strong><br/>
@@ -83,7 +83,7 @@ Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi
  &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/6.png" />          
+   <img src="{{ site.baseurl }}/img/6.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>6. Testuj</strong><br/>
@@ -94,7 +94,7 @@ Osoba ucząca w szkole jest poddawana presji z wielu stron. Z jednej strony musi
  &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/7.png" />          
+   <img src="{{ site.baseurl }}/img/7.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>7. Nie poddawaj się</strong><br/>
