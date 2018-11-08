@@ -33,7 +33,7 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
 
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/zasoby_ikona1.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona1.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>Wyszukiwarki:</strong><br/>
@@ -46,7 +46,7 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
    &nbsp;  
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/zasoby_ikona2.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona2.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>Repozytoria:</strong><br/>
@@ -57,7 +57,7 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
    &nbsp;  
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/zasoby_ikona3.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona3.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>Wideo:</strong><br/>
@@ -68,7 +68,7 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
  &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/zasoby_ikona4.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona4.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>Książki:</strong><br/>
@@ -79,7 +79,7 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
  &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/zasoby_ikona5.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona5.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>Zdjęcia:</strong><br/>
@@ -91,7 +91,7 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
  &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/zasoby_ikona6.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona6.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>Muzyka: </strong><br/>
@@ -103,7 +103,7 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
  &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/zasoby_ikona7.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona7.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>Wiedza:</strong><br/>
@@ -113,7 +113,7 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
  &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/zasoby_ikona8.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona8.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>Ilustracje i ikony: </strong><br/>
@@ -124,7 +124,7 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
  &nbsp;
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/zasoby_ikona9.png" />          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona9.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>Fonty: </strong><br/>
