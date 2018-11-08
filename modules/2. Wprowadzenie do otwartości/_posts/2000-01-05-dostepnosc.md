@@ -144,7 +144,7 @@ Dostępność materiałów edukacyjnych
 <p class="icons-source">
 Ikony pochodzące z the Noun Project, dostępne na licencji CC BY: <br/>
 	<a class="content-link" href="https://thenounproject.com/search/?q=structure&i=488980">Structure</a> by Ralf Schmitzer, <a class="content-link" href="https://thenounproject.com/search/?q=table%20of%20contents&i=1010520"> Table Of Contents</a> by Alex Bickov, <a class="content-link" href="https://thenounproject.com/search/?q=language&i=1119963"> Constructed Language</a> by H Alberto Gongora, <a class="content-link" href="https://thenounproject.com/search/?q=user&i=1977590"> users</a> by sofi, 
-	<a class="content-link" href="https://thenounproject.com/search/?q=contrast&i=1199263"> Contrast</a> by Chinnaking, <a class="content-link" href="https://thenounproject.com/term/emotion/1983023/"> emotion by Andrejs Kirma</a>, <a class="content-link" href="https://thenounproject.com/search/?q=chart&i=1740189"> chart</a> by Barracuda, <a class="content-link" href="https://thenounproject.com/search/?q=subtitles&i=194646"> Subtitles</a> by Maarten De Proost.
+	<a class="content-link" href="https://thenounproject.com/search/?q=contrast&i=1199263"> Contrast</a> by Chinnaking, <a class="content-link" href="https://thenounproject.com/term/emotion/1983023/"> emotion</a> by Andrejs Kirma, <a class="content-link" href="https://thenounproject.com/search/?q=chart&i=1740189"> chart</a> by Barracuda, <a class="content-link" href="https://thenounproject.com/search/?q=subtitles&i=194646"> Subtitles</a> by Maarten De Proost.
 </p>
 
 </div>
