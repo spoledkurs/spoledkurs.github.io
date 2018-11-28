@@ -10,9 +10,13 @@ Ewaluacja
 </div>
 
 <div class="screen-content">
-  <p>
- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScz44jo58H5ESBkqTS4uX0iOed7c46-FL6SRgWZwWGuYvTn1w/viewform?embedded=true" width="640" height="2572" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-  </p>
   
+ 
+ <div class="row">
+  <div class="col-md-12 col-xs-12">
+   <div class="embed-responsive"> 
+   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScz44jo58H5ESBkqTS4uX0iOed7c46-FL6SRgWZwWGuYvTn1w/viewform?embedded=true" width="640" height="2572" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div></div>
+</div>
+ 
  
 </div> 
