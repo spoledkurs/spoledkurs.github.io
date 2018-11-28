@@ -13,7 +13,7 @@ Będziemy pokazywać metody, narzędzia i praktyki wspierające otwartość.
 </div>  
 
 <div class="home-intro">
-  <p id="intro">Zapraszamy na <a class="content-link" href="https://bit.ly/2RkoVOi">webinarium podsumowujące kurs </a> 12 grudnia o godz. 18:00 </p>
+  <p id="intro">Zapraszamy na <br> <a class="content-link" href="https://bit.ly/2RkoVOi">webinarium podsumowujące kurs </a> <br> 12 grudnia o godz. 18:00 </p>
 </div>  
 
 <div class="front">
