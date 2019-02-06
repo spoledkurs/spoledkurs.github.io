@@ -199,7 +199,10 @@ video {
 
 @media (max-width: 296px) {
     .jumbotron header h1 {
-	    font-size: 23pt !important;
+	left: 0 !important;
+	right: 0 !important;
+	font-size: 23pt !important;
+	top: 0 !important; 
 	}
 }	
 
