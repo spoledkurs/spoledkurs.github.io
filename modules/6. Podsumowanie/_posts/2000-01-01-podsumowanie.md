@@ -22,10 +22,8 @@ Nasz kurs będzie się rozwijać i zmieniać razem z rozwojem Spółdzielni, wi�
 
   </p>
   &nbsp;
- <strong> <p> Serdecznie zapraszamy na <a class="content-link" target="_blank" href="https://bit.ly/2Pbm7RS">webinarium podsumowujące I edycję kursu </a> 12 grudnia o godz. 19:00. </p> </strong>
-  &nbsp;
-  <p>
-  Jeśli chcesz pozostać z nami w kontakcie, masz pomysł na projekt lub ochotę razem coś stworzyć - napisz do nas: <br/> <strong>spoled@centrmcyfrowe.pl</strong>
+   <p>
+  Jeśli chcesz pozostać z nami w kontakcie, masz pomysł na projekt lub ochotę razem coś stworzyć - napisz do nas: <br/> <strong>spoled@centrumcyfrowe.pl</strong>
   </p>
 <p>
 Jeśli masz jakieś pytania dotyczące kursu, pisz na adres: <br/> <strong>aczetwertynska@centrumcyfrowe.pl</strong>
