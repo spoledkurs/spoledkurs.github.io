@@ -71,7 +71,7 @@ Gotowe otwarte zasoby można przesłać na adres: spoled@centrumcyfrowe.pl
 </ol>
 </p>
   &nbsp;
-  <p>Cała zawartość kursu oraz kod dostępne są na <a class="content-link" target="_blank" href="https://github.com/spoledkurs/spoledkurs.github.io">GitHubie</a> do swobodnego wykorzystania</p>
+  <p>Cała zawartość kursu oraz kod dostępne są na <a class="content-link" target="_blank" href="https://github.com/spoledkurs/spoledkurs.github.io">GitHubie</a> do swobodnego wykorzystania.</p>
 
 </div> 
 
