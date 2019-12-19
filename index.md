@@ -4,8 +4,7 @@ published: true
 ---
 
 <div class="front">
-<p>Celem kursu jest przede wszystkim wprowadzenie w tematykę otwartej edukacji.
-Będziemy pokazywać metody, narzędzia i praktyki wspierające otwartość. 
+<p>Kurs transformacji cyfrowej dla instytucji kultury
   </p>
   <p>
     Poznasz metodę pracy Spółdzielni Otwartej Edukacji. Dowiesz się, czemu współpraca, uczenie się, przygoda i w efekcie otwarte zasoby są dla nas ważnymi elementami procesu otwierania się w edukacji. Podczas kursu będziesz mieć okazję poznać innych nauczycieli i nauczycielki, dyskutować z nimi i uczyć się wzajemnie, a nawet zaprosić do współpracy. 
