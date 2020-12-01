@@ -54,7 +54,7 @@ Otwarta edukacja to między innymi dzielenie się, wykorzystywanie dostępnych z
   &nbsp;
   
   <p><strong>Zadania:</strong></p>  
-  <p>Po każdym module znajdziecie propozycję zadań do wykonania, a czasem zagadnienia do rozważenia. Jeśli chcesz możesz przesłać gotowe zadanie końcowe - otwarty zasób edukacyjny na adres: <a "content-link" href="mailto:spoled@centrumcyfrowe.pl">spoled@centrumcyfrowe.pl </a>. Będzie nam bardzo miło dowiedzieć się, że skorzystałeś/łaś z naszego kursu.
+  <p>Po każdym module znajdziecie propozycję zadań do wykonania, a czasem zagadnienia do rozważenia. Jeśli chcesz możesz przesłać gotowe zadanie końcowe - otwarty zasób edukacyjny na adres: <a class="content-link" href="mailto:spoled@centrumcyfrowe.pl">spoled@centrumcyfrowe.pl </a>. Będzie nam bardzo miło dowiedzieć się, że skorzystałeś/łaś z naszego kursu.
 </p>
   
   &nbsp;
