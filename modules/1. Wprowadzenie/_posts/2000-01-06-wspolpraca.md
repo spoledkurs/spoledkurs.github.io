@@ -10,10 +10,10 @@ Współpraca
 
 
 <div class="screen-content">
-  <p>...czyli zaprzyjaźnij się na kursie online</p> 
-<p>Statystyki mówią, że kursy e-learningowej kończy średnio 10% osób, które się na nie zgłosiły. Wynika to między innymi z braku interakcji pomiędzy uczestnikami i uczestniczkami oraz z braku motywacji. Chcielibyśmy, żeby z tym kursem było inaczej, dlatego zachęcamy, aby forma onlinowa była dla Ciebie inspiracją do poznawania nowych nauczycieli i szukania wsparcia, a nie wyłącznie metodą na szybkie i samodzielne zdobycie wiedzy.</p>
-  <p>Druga sprawa, że jedną z podstawowych wartości Spółdzielni Otwartej Edukacji jest współpraca. I do niej chcemy Was gorąco zachęcić!
+  <p>...czyli zaprzyjaźnij się realizując swój projekt.</p> 
+<p>Statystyki mówią, że kursy e-learningowej kończy średnio 10% osób, które się na nie zgłosiły. Wynika to między innymi z braku interakcji pomiędzy uczestnikami i uczestniczkami oraz z braku motywacji. Chcielibyśmy, żeby z tym kursem było inaczej, dlatego zachęcamy, aby forma onlinowa była dla Ciebie inspiracją do poznawania nowych nauczycieli i szukania wsparcia, a nie wyłącznie metodą na szybkie i samodzielne zdobycie wiedzy. Jeśli tworzycie swoje materiały, pamiętajcie, aby do współpracy zaprosić innych nauczycieli ze swojej szkoły lub z portalu społecznościowego. Jeśli wolisz pisać sama, poproś, żeby ktoś życzliwy zrecenzował twoją pracę i pomógł wprowadzić poprawki.</p>
+  <p>Jedną z podstawowych wartości Spółdzielni Otwartej Edukacji jest współpraca. I do niej chcemy Was gorąco zachęcić!
 </p>
-  <p>Jeśli bierzecie udział w kursie ze wsparciem mentorki lub mentora, to dbajcie o kontakt z nimi. Są to nauczycielki i nauczyciele, którzy brali udział w pierwszej, pilotażowej edycji warsztatów SpołEd. Niedawno sami byli na początku drogi i chętnie podzielą się swoimi historiami, przykładami sukcesów (i porażek), a przede wszystkim są osobami, z którymi warto pogadać.</p>
+  <p>Nie zapomnij też poprosić o recenzje swoich uczniów, którzy mogą wnieść zupełnie inną perspektywę do twoich materiałów. </p>
 
 </div> 
