@@ -33,7 +33,7 @@ Upraszczając, otwarty zasób to taki, który możemy pobrać, skopiować, zmien
  </p> 
  
   <ul>
-  <li class="bullet">&bdquo;<a class="content-link" target="_blank" href="https://koed.org.pl/interaktywny-przewodnik-oze/">Otwarte Zasoby Edukacyjne Szukaj, twórz, dziel się. Przewodnik online&rdquo;</a>,</li>
+  <li class="bullet">&bdquo;<a class="content-link" target="_blank" href="https://koed.org.pl/interaktywny-przewodnik-oze/">Otwarte Zasoby Edukacyjne. Szukaj, twórz, dziel się. Przewodnik online&rdquo;</a>,</li>
 <li class="bullet">stronę <a class="content-link" target="_blank" href="http://prawokultury.pl/publikacje/wolne-licencje/">prawokultury.pl</a>,</li>
   <li class="bullet"> publikację <a class="content-link" target="_blank" href="https://men.gov.pl/wp-content/uploads/2013/07/mapa_oze.pdf"> &bdquo;Mapa otwartych zasobów edukacyjnych&rdquo;</a>.</li>
 </ul>
