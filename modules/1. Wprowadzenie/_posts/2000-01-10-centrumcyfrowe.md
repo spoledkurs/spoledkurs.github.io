@@ -17,6 +17,6 @@ Centrum Cyfrowe
 </p> 
   <p>Rozwijamy SpołEd w synergii z innymi naszymi projektami - przede wszystkim tymi dotyczącymi współpracy i wykorzystania zasobów w sferze kultury i przez instytucje dziedzictwa. 
 </p>
-  <p>Nasze działania realizujemy w ramach szerokiej, międzynarodowej sieci organizacji zajmujących się otwartą edukacją. SpołEd czerpie z wymiany dobrych praktyk w ramach stworzonej przez Creative Commons międzynarodowej Platformy Otwartej Edukacji.</p>
+  <p>Nasze działania realizujemy w ramach szerokiej, międzynarodowej sieci organizacji zajmujących się otwartą edukacją. SpołEd czerpie z wymiany dobrych praktyk w ramach stworzonej przez Creative Commons międzynarodowej Platformy Otwartej Edukacji,wsparcia Open Education Global. Wspiera również działania wokół rekomendacji UNESCO dotyczącej otwartej edukacji i ich implementacji.</p>
 
 </div> 
