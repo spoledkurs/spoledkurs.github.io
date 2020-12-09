@@ -18,6 +18,7 @@ Mamy też strony zawierające gotowe scenariusze zajęć czy opisy metod i ćwic
 <li class="bullet"><a class="content-link" target="_blank" href="https://profesorskiegadanie.blogspot.com/">https://profesorskiegadanie.blogspot.com/</a></li>
 <li class="bullet"><a class="content-link" target="_blank" href="https://otwartezasoby.pl/">otwartezasoby.pl</a></li>
 <li class="bullet"><a class="content-link" target="_blank" href="http://www.superbelfrzy.edu.pl/">superbelfrzy.edu.pl</a></li>
+  <li class="bullet"><a class="content-link" target="_blank" href="https://moodle.umk.pl/BU/course/view.php?id=13">kurs Otwarte zasoby edukacyjne i naukowe</a></li> 
  </ul> 
   </p>
 <p>
@@ -40,10 +41,4 @@ Oraz strony prowadzone przez organizacje:
    <iframe width="560" height="315" src="https://www.youtube.com/embed/MjmwlCcIpHg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div>
 </div>
 
-&nbsp;
-<p>
-<strong>Jeśli korzystasz z jakichś otwartych zasobów edukacyjnych, napisz o tym w komentarzu!</strong>
-</p>
-</div> 
 
-{% include disqus.html %}
