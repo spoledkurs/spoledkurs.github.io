@@ -1,12 +1,12 @@
 ---
 layout: "course_page"
 
-title: "Checklista"
+title: "Zrozumieć OZE"
 
 ---
 
 <div class="text-center screen-title">
-Checklista
+Zrozumieć OZE
 </div>
 
 <div class="screen-content">
