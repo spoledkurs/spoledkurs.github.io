@@ -11,14 +11,12 @@ Podsumowanie
 
 <div class="screen-content">
   <p>
-  Bardzo dziękujemy za udział w naszym kursie! Mamy ogromną nadzieję, że dzięki kursowi dowiedziałaś/eś się, czym są otwarte zasoby oraz otwarta edukacja i - co jeszcze ważniejsze - macie ochotę wdrażać jej założenia w swojej szkole.
-Liczymy również na to, że udało Ci się poznać osoby, które również mają ochotę na zmianę w edukacji i myślą podobnie.
+  Bardzo dziękujemy za udział w naszym kursie! Mamy ogromną nadzieję, że dzięki kursowi dowiedziałaś/eś się, czym są otwarte zasoby edukacyjne oraz otwarta edukacja i - co jeszcze ważniejsze - masz ochotę wdrażać jej założenia w swojej szkole. 
 
   </p>
   
   <p>
-  W czasie kursu chcieliśmy pokazać metody edukacyjne oraz narzędzia, z których korzystaliśmy w czasie pilotażu projektu. Jak na pewno zauważyłaś/eś, jest to tylko wycinek tego, co można z otwartymi zasobami robić i jak do nich podchodzić. 
-Nasz kurs będzie się rozwijać i zmieniać razem z rozwojem Spółdzielni, więc zachęcamy Cię do odwiedzania strony kursu raz na jakiś czas.
+W czasie kursu chcieliśmy pokazać metody edukacyjne oraz narzędzia, z których korzystamy w czasie realizacji projektu stacjonarnie. Jak na pewno zauważyłaś/eś, jest to tylko wycinek tego, co można z otwartymi zasobami robić i jak do nich podchodzić. Nasz kurs będzie się rozwijać i zmieniać razem z rozwojem Spółdzielni, więc zachęcamy Cię do odwiedzania strony kursu raz na jakiś czas.
 
   </p>
   &nbsp;
