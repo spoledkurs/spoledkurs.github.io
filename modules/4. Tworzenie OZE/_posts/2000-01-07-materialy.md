@@ -95,7 +95,7 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
   </div>   
   <div class="col-md-10">
     <strong>Muzyka: </strong><br/>
-    <a class="content-link" target="_blank" href="https://www.jamendo.com/">Jamendo</a><br/>
+    <a class="content-link" target="_blank" href="http://dig.ccmixter.org/">ccMixter</a><br/>
 	 <a class="content-link" target="_blank" href="http://openmusicarchive.org/">Open Music Archive</a>
   </div>             
 </div>    
