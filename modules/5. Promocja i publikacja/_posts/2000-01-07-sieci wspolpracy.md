@@ -11,8 +11,7 @@ Sieci współpracy
 
 <div class="screen-content">
   <p>
-  Jedną z podstawowych wartości, o których mówimy w Spółdzielni jest współpraca. Pierwsza edycja projektu miała swoje motto &bdquo;Dzielimy się, aby mnożyć. Mnożymy, aby się dzielić&rdquo;, a uczestniczki i uczestnicy pracowali w grupach. Zachęcamy do zakładania własnych sieci i grup współpracy, do dzielenia się i tworzenia - mnożenia wiedzy i dzielenia się nią!
-Poniżej znajdziesz trochę wskazówek z Ośrodka Rozwoju Edukacji. 
+  Jedną z podstawowych wartości, o których mówimy w Spółdzielni jest współpraca. Motto projektu (zainspirowane pierwszą, matematyczną edycją) to „Dzielimy się, aby mnożyć. Mnożymy, aby się dzielić”, a uczestniczki i uczestnicy w czasie spotkań na żywo zawsze pracują w grupach. Zachęcamy do zakładania własnych sieci i grup współpracy, do dzielenia się i tworzenia - mnożenia wiedzy i dzielenia się nią! Poniżej znajdziesz kilka polskich i zagranicznych wskazówek:
 
   </p>
   <ul>
@@ -22,6 +21,9 @@ Poniżej znajdziesz trochę wskazówek z Ośrodka Rozwoju Edukacji.
   
   <p>
   <li class="bullet"><a class="content-link" target="_blank" href="https://doskonaleniewsieci.pl/KategoriaProblemowPodglad.aspx?id=68&backUrl=%2fKategorieProblemowPubliczne.aspx">https://doskonaleniewsieci.pl/KategoriaProblemowPodglad.aspx?id=68&backUrl=%2fKategorieProblemowPubliczne.aspx</a></li>
+  </p>
+  <p>
+  <li class="bullet"><a class="content-link" target="_blank" href="https://www.schooleducationgateway.eu/en/pub/resources/toolkitsforschools/subarea.cfm?sa=9">https://www.schooleducationgateway.eu/en/pub/resources/toolkitsforschools/subarea.cfm?sa=9</a></li>
   </p>
 </ul>
 
