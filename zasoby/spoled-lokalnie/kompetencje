@@ -1,0 +1,109 @@
+---
+layout: "course_page_2"
+---
+
+<h1 class="project-title">Lekcje kompetencji</h1>
+
+  <p style="font-size:20px; margin-top:50px;"><strong>Nagrywanie podcastów w 11 krokach. Kurs dla początkujących</strong></p>
+<p>Pierwszy krok? Pomysł na podcast. To już za Tobą? W takim razie ten kurs jest właśnie dla Ciebie. W pół godziny Agata i Mateusz pokażą Ci, jak nagrywać podcasty telefonem komórkowym przy użyciu darmowej aplikacji Anchor. Czeka na Ciebie 11 lekcji podzielonych na krótkie odcinki. Wspólnie założycie kanał podcastowy, nagracie i zmontujecie odcinek, a na koniec klikniecie “opublikuj”.</p> 
+<p>Jesteś nauczycielem/ką? To tak jak Agata, która na co dzień uczy matematyki w szkole podstawowej. Kurs powstał w ramach projektu “Podcast, film i grafika w rękach nauczyciela” i to o Was w szczególności myśleliśmy, przygotowując kolejne odcinki. Chcemy Wam pokazać, że nagrywanie podcastów wcale nie jest trudne! Liczba naukowych podcasterów wciąż rośnie, a Wy macie niesamowite pomysły i prawdziwą wiedzę, czas więc chwycić za telefony i dołączyć do grona internetowych edukatorów.</p>
+
+&nbsp;
+
+<div class="row" style="margin-top: 30px; margin-bottom: 18px;">
+ <div class="col-md-4">
+  <p class="text-center"><iframe width="100%" src="https://www.youtube.com/embed/9yXlIqobZ7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+   </div>  
+  <div class="col-md-4">
+   <p class="text-center"><iframe width="100%"  src="https://www.youtube.com/embed/9eRYgPVN0Gw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+ </div>
+   <div class="col-md-4">
+   <p class="text-center"><iframe width="100%" src="https://www.youtube.com/embed/hDycdA8mw1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+ </div>
+</div>
+
+<div class="row" style="margin-top: 30px; margin-bottom: 18px;">
+ <div class="col-md-4">
+  <p class="text-center"><iframe width="100%" src="https://www.youtube.com/embed/9MrKkuRmYNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+   </div>  
+  <div class="col-md-4">
+   <p class="text-center"><iframe width="100%"  src="https://www.youtube.com/embed/BxbjDZ6vAa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+ </div>
+   <div class="col-md-4">
+   <p class="text-center"><iframe width="100%" src="https://www.youtube.com/embed/LBh7oCCsyeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+ </div>
+</div>
+
+<div class="row" style="margin-top: 30px; margin-bottom: 18px;">
+ <div class="col-md-4">
+  <p class="text-center"><iframe width="100%" src="https://www.youtube.com/embed/xZf3D_VucII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+   </div>  
+  <div class="col-md-4">
+   <p class="text-center"><iframe width="100%"  src="https://www.youtube.com/embed/wWqzKVduHXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+ </div>
+   <div class="col-md-4">
+   <p class="text-center"><iframe width="100%" src="https://www.youtube.com/embed/Pw4OULCK-1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+ </div>
+</div>
+   
+ <div class="row">
+   <div class="col-md-4 col-md-offset-2">
+   <p class="text-center"><iframe width="100%" src="https://www.youtube.com/embed/Oc7X5Te417Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+ </div> 
+ <div class="col-md-4">
+  <p class="text-center"><iframe width="100%" src="https://www.youtube.com/embed/PDBoD1sOIFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+   </div>  
+</div>  
+
+&nbsp;
+<p style="font-size:20px"><strong>Bajka terapeutyczna pt.: „W Leśnej Szkole” [klasy I-IV]</strong></p>
+<p>Bajka “W leśnej szkole” opowiada historię papużki Pini, która musi się zmierzyć z odrzuceniem przez koleżanki i kolegów. Słuchowisko wraz z materiałami do pracy dla uczniów przekazujemy nauczycielom klas I-IV, borykającym się z problemem odrzucenia w grupie rówieśniczej. Mamy nadzieję, że przygotowane przez nas materiały pomogą zarówno dzieciom jak i nauczycielom w rozwiązywaniu tych trudnych, a zarazem ważnych, w aspekcie dalszego rozwoju, problemów. </p>
+<p><strong>Pobierz materiały potrzebne do przeprowadzenia lekcji:</strong></p>
+<ul>
+  <li class="bullet"><a class="project" href="{{ site.baseurl }}/img/pliki_tekstowe/podcasty/Leśne zwierzątka_final.mp3" target="_blank">Nagranie bajki</a></li> 
+  <li class="bullet"><a class="project" href="{{ site.baseurl }}/img/pliki_tekstowe/podcasty/W Leśniej Szkole - tekst bajki.docx" target="_blank">Transkrypcja bajki</a></li> 
+  <li class="bullet"><a class="project" href="{{ site.baseurl }}/img/pliki_tekstowe/podcasty/Scenariusz zajęć - do bajki.docx" target="_blank">Scenariusz aktywności i ćwiczeń</a></li> 
+  <li class="bullet"><a class="project" href="{{ site.baseurl }}/img/pliki_tekstowe/podcasty/Karta pracy W Leśnej Szkole (1).pdf" target="_blank">Karta pracy dla uczniów</a></li> 
+  <li class="bullet"><a class="project" href="{{ site.baseurl }}/img/pliki_tekstowe/podcasty/Sylwety zwierząt (1).pdf" target="_blank">Materiały graficzne  do wydrukowania (sylwetki bohaterów bajki)</a></li> 
+</ul>
+
+&nbsp;
+<p style="font-size:20px"><strong>Wywiad z Jackiem Soplicą [klasy VII-VIII]</strong></p>
+<p>Komplet materiałów edukacyjnych potrzebnych do omówienia lektury “Pan Tadeusz”. Wywiad z Jackiem Soplicą pozwala uporządkować wiedzę o historii księdza Robaka, a gra w “Taboo” w zabawny sposób poznać bohaterów poematu.</p>
+<p><strong>Pobierz materiały potrzebne do przeprowadzenia lekcji:</strong></p>
+<ul>
+  <li class="bullet"><a class="project" href="{{ site.baseurl }}/img/pliki_tekstowe/podcasty/Wywiad z Jackiem Soplicą_final.mp3" target="_blank">Nagranie wywiadu z Jackiem Soplicą</a></li> 
+  <li class="bullet"><a class="project" href="{{ site.baseurl }}/img/pliki_tekstowe/podcasty/WYWIAD Z JACKIEM SOPLICĄ.docx" target="_blank">Transkrypcja wywiadu</a></li> 
+  <li class="bullet"><a class="project" href="{{ site.baseurl }}/img/pliki_tekstowe/podcasty/TabooWywiacJS.pdf" target="_blank">Szablon gry “Taboo” z bohaterami utworu</a></li> 
+  <li class="bullet"><a class="project" href="{{ site.baseurl }}/img/pliki_tekstowe/podcasty/KomiksWywiadJS.pdf" target="_blank">Szablon do narysowania komiksu na podstawie utworu</a></li> 
+  <li class="bullet"><a class="project" href="{{ site.baseurl }}/img/pliki_tekstowe/podcasty/historia księdza Robaka karta pracy.pdf" target="_blank">Historia księdza Robaka do ułożenia chronologicznego</a></li> 
+</ul>
+
+&nbsp;
+
+
+<h2 class="team">Zespół</h2>
+
+<div class="row"style="margin-bottom: 30px;">
+ <div class="col-md-10"> 
+<img src="{{ site.baseurl }}/img/zespol_agaty.jpg" alt="Cztery uśmiechnięte kobiety" />
+   <p class="icons-source"> Członkinie zespołu obecne podczas pierwszego zjazdu, fot. Michał Dąbrowski.</p>
+  </div> 
+  
+</div>  
+
+<p style="margin-bottom: 0px"><strong>Autorzy kursu podcastowego:</strong> Agata Paszek oraz Mateusz Paszek (wsparcie techniczne i merytoryczne)</p>
+<p style="margin-bottom: 0px"><strong>Autorka wywiadu: </strong>Magdalena Machnik</p>
+<p style="margin-bottom: 0px"><strong>Lektorzy w nagraniu audio: </strong> Magdalena Machnik oraz gościnnie Mateusz Szczepara</p>
+<p style="margin-bottom: 0px"><strong>Autorki scenariusza zajęć: </strong>Liliana Szulik, Marta Welchar, Magdalena Machnik</p>
+<p><strong>Autorki bajki terapeutycznej i scenariusza zajęć: </strong>Ewelina Adamek, Barbara Bazgier-Woźny, Barbara Cielanga, Natalia Gaszczyk</p>
+
+<p><strong>Szkoła Podstawowa im. Karola Miarki w Pielgrzymowicach</strong></p>
+
+<p><strong>O nas:</strong></p>
+<p>Jesteśmy grupą nauczycieli i nauczycielek, którzy nie boją się nowych wyzwań. Bardzo lubimy pracę z dziećmi i młodzieżą, nie lubimy zaś “szkolnej nudy”. Dlatego szukamy różnych metod do przekazywania wiedzy i wartości naszym uczniom i uczennicom. Jesteśmy otwarci, chętni do działania, inspirowania i uczenia się, kreatywnie patrzymy na edukację i mamy ogromną sympatię do naszych uczniów.</p>
+
+<p><strong>Barbara Bazgier – Woźny, Barbara Cielanga i Ewelina Adamek</strong>, to nauczycielki edukacji wczesnoszkolnej. Na ich lekcjach uczniowie nie tylko pogłębiają wiedzę i nabywają podstawowe umiejętności czytania, pisania i liczenia, lecz także grają na dzwonkach, lepią z gliny, organizują teatrzyki lalkowe, uczą się kodowania i pracy projektowej.</p>
+ 
+  <p><strong>Liliana Szulik, Marta Welchar, Magdalena Machnik, to nauczycielki języka polskiego, Natalia Gaszczyk i Tomasz Sroka</strong>, nauczyciele języka angielskiego, a <strong>Agata Paszek</strong>, liderka zespołu – nauczycielka matematyki. Na co dzień uczą przedmiotów egzaminacyjnych, które niekoniecznie są tymi ulubionymi w szkole. Starają się tak pracować, aby treści przez nich przekazywane znajdowały praktyczne zastosowanie w życiu codziennym. Stosują różne narzędzia i techniki uczenia – aplikacje komputerowe, gry planszowe, łamigłówki, konkursy, metody pracy projektowej. Organizują wydarzenia szkolne, aby przełamywać rutynę i wprowadzać ciekawe i nietypowe formy edukacyjne.
+</p>  
