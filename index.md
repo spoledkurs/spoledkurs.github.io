@@ -24,3 +24,17 @@ Jeśli dopiero planujesz korzystanie z otwartych zasobów, kurs będzie dla Cieb
 </div>
 
 
+<div class="front">
+ <p> 
+Założyliśmy Spółdzielnię Otwartej Edukacji „SpołEd”, aby otwarta edukacja stała się praktyką. Jest to przestrzeń, w której nauczyciele mogą swobodnie wymieniać się wiedzą i umiejętnościami, zdobywają wspólnie doświadczenie, poznają ludzi, którzy mogą im pomóc wprowadzić zmianę w uczeniu. Ponieważ wierzymy, że otwarta edukacja dotyczy wszystkich, chcemy promować tworzenie i upowszechnianie otwartych, cyfrowych materiałów edukacyjnych w środowisku ekspertów i organizacji pozarządowych.
+Od paru lat organizujemy warsztaty, kursy online oraz webinary, których celem jest zwiększenie kompetencji cyfrowych nauczycieli/ek i bibliotekarzy/ek. Skupiamy się na aspekcie tworzenia i współtworzenia zasobów edukacyjnych, które mogą być otwartymi zasobami edukacjami.
+  </p>  
+</div>
+<div class="front">
+  <p>O organizatorze</p>
+ <p> 
+   <a href="https://centrumcyfrowe.pl/" target="_blank">Centrum Cyfrowe</a> jest fundacją, którą zajmuje się otwartością w edukacji i kulturze. Fundacja troszczy się o społeczny wymiar transformacji cyfrowej. Wspólnie z ekspertkami i praktykami otwartymi na zmianę tworzy przestrzeń dla nowych idei, rozwoju umiejętności i narzędzi. Dąży do tego, by w relacji człowieka z technologią interes społeczny był zawsze na pierwszym miejscu.
+  </p>  
+</div>
+
+
