@@ -26,7 +26,7 @@ Jeśli dopiero planujesz korzystanie z otwartych zasobów, kurs będzie dla Cieb
 
 <div class="front" style="margin-top: 30px;">
  <p> 
-Założyliśmy Spółdzielnię Otwartej Edukacji „SpołEd”, aby otwarta edukacja stała się praktyką. Jest to przestrzeń, w której nauczyciele mogą swobodnie wymieniać się wiedzą i umiejętnościami, zdobywają wspólnie doświadczenie, poznają ludzi, którzy mogą im pomóc wprowadzić zmianę w uczeniu. Ponieważ wierzymy, że otwarta edukacja dotyczy wszystkich, chcemy promować tworzenie i upowszechnianie otwartych, cyfrowych materiałów edukacyjnych w środowisku ekspertów i organizacji pozarządowych.
+Założyliśmy <a class="content-link" href="https://centrumcyfrowe.pl/spoled/" target="_blank">Spółdzielnię Otwartej Edukacji „SpołEd”</a>, aby otwarta edukacja stała się praktyką. Jest to przestrzeń, w której nauczyciele mogą swobodnie wymieniać się wiedzą i umiejętnościami, zdobywają wspólnie doświadczenie, poznają ludzi, którzy mogą im pomóc wprowadzić zmianę w uczeniu. Ponieważ wierzymy, że otwarta edukacja dotyczy wszystkich, chcemy promować tworzenie i upowszechnianie otwartych, cyfrowych materiałów edukacyjnych w środowisku ekspertów i organizacji pozarządowych.
 Od paru lat organizujemy warsztaty, kursy online oraz webinary, których celem jest zwiększenie kompetencji cyfrowych nauczycieli/ek i bibliotekarzy/ek. Skupiamy się na aspekcie tworzenia i współtworzenia zasobów edukacyjnych, które mogą być otwartymi zasobami edukacjami.
   </p>  
 </div>
